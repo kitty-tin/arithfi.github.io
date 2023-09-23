@@ -2,5 +2,4 @@
 sidebar_position: 1
 ---
 
-
-# Background
+# Copy Trade Guideline
