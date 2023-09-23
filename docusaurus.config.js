@@ -69,6 +69,7 @@ const config = {
         logo: {
           alt: 'ArithFi Logo',
           src: 'img/logo.svg',
+          href: 'https://test1.arithfi.com',
         },
         items: [
           {
