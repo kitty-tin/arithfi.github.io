@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: How to trade
 ---
 
 # How do you use ArithFi's Lightning Trade for your first trade?
