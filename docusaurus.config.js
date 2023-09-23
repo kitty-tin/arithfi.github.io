@@ -89,51 +89,6 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Doc',
-                to: '/docs/overview/background',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Medium',
-                href: 'https://medium.com/@ArithFi',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/ntef7r989x',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/ArithFi',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/ArithFi',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} ArithFi. Built with Docusaurus.`,
-      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
