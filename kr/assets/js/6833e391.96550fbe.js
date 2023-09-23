@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_website=self.webpackChunkdoc_website||[]).push([[108],{4875:e=>{e.exports=JSON.parse('{"title":"Futures","slug":"/category/futures","permalink":"/kr/docs/category/futures","navigation":{"previous":{"title":"Address sign","permalink":"/kr/docs/AFQ/address_sign"},"next":{"title":"Wallet","permalink":"/kr/docs/futures/wallet"}}}')}}]);

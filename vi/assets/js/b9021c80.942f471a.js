@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdoc_website=self.webpackChunkdoc_website||[]).push([[5573],{7498:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/vi/blog/tags/docusaurus","allTagsPath":"/vi/blog/tags","count":4}')}}]);
