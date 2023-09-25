@@ -1,7 +1,4 @@
 {
-  "Docusaurus Tutorial - 5min ⏱️": {
-    "message": "Docusaurus Tutorial - 5min ⏱️"
-  },
   "theme.ErrorPageContent.title": {
     "message": "Trang này đã bị lỗi.",
     "description": "The title of the fallback page when the page crashed"
