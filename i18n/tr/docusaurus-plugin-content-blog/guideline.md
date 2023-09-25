@@ -1,5 +1,8 @@
 ---
-sidebar_position: 1
+slug: guildline
+title: ArithFi'deki kopya işlem özelliğini nasıl kullanabilirim?
+authors: [ArithFi]
+tags: ['futures', 'copy trading']
 ---
 
 # ArithFi'deki kopya işlem özelliğini nasıl kullanabilirim?

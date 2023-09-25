@@ -1,6 +1,8 @@
 ---
-sidebar_position: 2
-title: How to trade
+slug: how-to-trade
+title: Aquí están los pasos para realizar su primer intercambio con ArithFi Lightning Trade？
+authors: [ArithFi]
+tags: ['futures']
 ---
 
 # Aquí están los pasos para realizar su primer intercambio con ArithFi Lightning Trade？

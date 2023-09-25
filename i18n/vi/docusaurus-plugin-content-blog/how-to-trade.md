@@ -1,6 +1,8 @@
 ---
-sidebar_position: 2
-title: How to trade
+slug: how-to-trade
+title: Làm thế nào để sử dụng Giao dịch Lightning Trade của Ar
+authors: [ArithFi]
+tags: ['futures']
 ---
 
 # Làm thế nào để sử dụng Giao dịch Lightning Trade của Ar

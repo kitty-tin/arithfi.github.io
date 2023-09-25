@@ -1,5 +1,8 @@
 ---
-sidebar_position: 1
+slug: guildline
+title: ArithFi에서 복사 거래 기능을 사용하는 방법은 어떻게 되나요?
+authors: [ArithFi]
+tags: ['futures', 'copy trading']
 ---
 
 # ArithFi에서 복사 거래 기능을 사용하는 방법은 어떻게 되나요?

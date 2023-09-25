@@ -1,6 +1,8 @@
 ---
-sidebar_position: 2
-title: How to trade
+slug: how-to-trade
+title: ArithFi'nin Lightning Trade özelliğini ilk ticaretiniz için nasıl kullanırsınız?
+authors: [ArithFi]
+tags: ['futures']
 ---
 
 # ArithFi'nin Lightning Trade özelliğini ilk ticaretiniz için nasıl kullanırsınız?

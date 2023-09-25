@@ -1,6 +1,8 @@
 ---
-sidebar_position: 2
-title: How to trade
+slug: how-to-trade
+title: Как использовать Lightning Trade от ArithFi для вашей первой сделки?
+authors: [ArithFi]
+tags: ['futures']
 ---
 
 # Как использовать Lightning Trade от ArithFi для вашей первой сделки?
