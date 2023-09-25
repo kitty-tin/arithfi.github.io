@@ -6,8 +6,7 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
 
   useEffect(() => {
-    // redirect to /docs/category/overview
-    window.location.href = '/docs/category/overview';
+    window.location.href = '/docs/arithfi';
   }, []);
 
   return (
