@@ -9,22 +9,22 @@ const config = {
   title: 'ArithFi',
   tagline: 'Document for ArithFi',
   favicon: 'img/favicon.ico',
-
+  
   // Set the production url of your site here
   url: 'https://arithfi.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
+  
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ArithFi', // Usually your GitHub org/user name.
   projectName: 'arithfi.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
-
+  
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
+  
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -32,7 +32,7 @@ const config = {
     defaultLocale: 'en',
     locales: ['en', 'pt', 'es', 'ko', 'vi', 'tr', 'ru'],
   },
-
+  
   presets: [
     [
       'classic',
@@ -62,58 +62,58 @@ const config = {
       }),
     ],
   ],
-
+  
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
-      navbar: {
-        title: 'ArithFi',
-        logo: {
-          alt: 'ArithFi Logo',
-          src: 'img/logo.svg',
-          href: 'https://test1.arithfi.com',
+  /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+      ({
+        // Replace with your project's social card
+        image: 'img/docusaurus-social-card.jpg',
+        navbar: {
+          title: 'ArithFi',
+          logo: {
+            alt: 'ArithFi Logo',
+            src: 'img/logo.svg',
+            href: 'https://test1.arithfi.com',
+          },
+          items: [
+            {
+              type: 'docSidebar',
+              sidebarId: 'tutorialSidebar',
+              position: 'left',
+              label: 'Doc',
+            },
+            {to: '/blog', label: 'Blog', position: 'left'},
+            // {
+            //   type: "dropdown",
+            //   position: "left",
+            //   label: "Blog",
+            //   items: [
+            //     {
+            //       to: '/blog/tags/guild',
+            //       label: 'Guild',
+            //     },
+            //     {
+            //       to: '/blog/tags/news',
+            //       label: 'News',
+            //     },
+            //   ]
+            // },
+            {
+              type: 'html',
+              position: 'right',
+              value: `<a style="display: flex; cursor: pointer" href="https://github.com/ArithFi" target="_blank"><img src="/img/github-mark.svg" width="24" height="24" alt="github" /></a>`
+            },
+            {
+              type: 'localeDropdown',
+              position: 'right',
+            },
+          ],
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Doc',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          // {
-          //   type: "dropdown",
-          //   position: "left",
-          //   label: "Blog",
-          //   items: [
-          //     {
-          //       to: '/blog/tags/guild',
-          //       label: 'Guild',
-          //     },
-          //     {
-          //       to: '/blog/tags/news',
-          //       label: 'News',
-          //     },
-          //   ]
-          // },
-          {
-            href: 'https://github.com/ArithFi',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
-            type: 'localeDropdown',
-            position: 'right',
-          },
-        ],
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
+        prism: {
+          theme: lightCodeTheme,
+          darkTheme: darkCodeTheme,
+        },
+      }),
 };
 
 module.exports = config;
