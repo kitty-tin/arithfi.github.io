@@ -2,7 +2,7 @@
 slug: guildline
 title: ¿Cómo utilizar la función de copia de operaciones en ArithFi?
 authors: [ArithFi]
-tags: ['futures', 'copy trading']
+tags: ['guild']
 ---
 
 # ¿Cómo utilizar la función de copia de operaciones en ArithFi?

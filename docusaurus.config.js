@@ -83,6 +83,21 @@ const config = {
             label: 'Doc',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          // {
+          //   type: "dropdown",
+          //   position: "left",
+          //   label: "Blog",
+          //   items: [
+          //     {
+          //       to: '/blog/tags/guild',
+          //       label: 'Guild',
+          //     },
+          //     {
+          //       to: '/blog/tags/news',
+          //       label: 'News',
+          //     },
+          //   ]
+          // },
           {
             href: 'https://github.com/ArithFi',
             label: 'GitHub',

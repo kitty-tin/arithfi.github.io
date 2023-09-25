@@ -2,7 +2,7 @@
 slug: how-to-trade
 title: Aquí están los pasos para realizar su primer intercambio con ArithFi Lightning Trade？
 authors: [ArithFi]
-tags: ['futures']
+tags: ['guild']
 ---
 
 # Aquí están los pasos para realizar su primer intercambio con ArithFi Lightning Trade？

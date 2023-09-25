@@ -2,7 +2,7 @@
 slug: how-to-trade
 title: How do you use ArithFi's Lightning Trade for your first trade?
 authors: [ArithFi]
-tags: ['futures']
+tags: ['guild']
 ---
 
 ArithFi, A decentralized derivatives exchange, eliminates market makers and LPs. Trade on ArithFi will give users a quick, easy, safe, and transparent trading experience. Using a leverage of 1–50X, deposit on Layer 2 to strategize your lightning trade. No waiting period is necessary in order to withdraw your funds from Layer 2, and future gains will be settled in your ArithFi account.

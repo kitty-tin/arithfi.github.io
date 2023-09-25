@@ -2,7 +2,7 @@
 slug: how-to-trade
 title: Làm thế nào để sử dụng Giao dịch Lightning Trade của Ar
 authors: [ArithFi]
-tags: ['futures']
+tags: ['guild']
 ---
 
 # Làm thế nào để sử dụng Giao dịch Lightning Trade của Ar

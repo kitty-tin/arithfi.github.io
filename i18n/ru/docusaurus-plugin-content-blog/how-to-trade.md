@@ -2,7 +2,7 @@
 slug: how-to-trade
 title: Как использовать Lightning Trade от ArithFi для вашей первой сделки?
 authors: [ArithFi]
-tags: ['futures']
+tags: ['guild']
 ---
 
 # Как использовать Lightning Trade от ArithFi для вашей первой сделки?

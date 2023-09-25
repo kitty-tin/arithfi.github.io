@@ -2,7 +2,7 @@
 slug: guildline
 title: How to use copy trading feature on ArithFi?
 authors: [ArithFi]
-tags: ['futures', 'copy trading']
+tags: ['guild']
 ---
 
 A seamless futures trading experience may be had anytime, anywhere by using ArithFi copy trading service. Follow the trading strategies of the top traders around the world in the trader's square with just a single click. Here is the beginners' guide on ArithFi Copy Trading service.

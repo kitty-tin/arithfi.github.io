@@ -2,7 +2,7 @@
 slug: guildline
 title: ArithFi'deki kopya işlem özelliğini nasıl kullanabilirim?
 authors: [ArithFi]
-tags: ['futures', 'copy trading']
+tags: ['guild']
 ---
 
 # ArithFi'deki kopya işlem özelliğini nasıl kullanabilirim?
