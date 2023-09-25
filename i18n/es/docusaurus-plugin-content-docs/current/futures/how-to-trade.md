@@ -5,7 +5,7 @@ title: How to trade
 
 # Aquí están los pasos para realizar su primer intercambio con ArithFi Lightning Trade？
 
-ArithFi, децентрализованная биржа деривативов, исключает маркет-мейкеров и LP. Торговля на ArithFi предоставит пользователям быстрый, простой, безопасный и прозрачный торговый опыт. Используя кредитное плечо 1–50X, внесите депозит на уровень 2, чтобы разработать стратегию своей молниеносной сделки. Для вывода средств с уровня 2 не требуется периода ожидания, а будущие доходы будут зачислены на ваш счет в ArithFi.
+ArithFi, un intercambio descentralizado de derivados, elimina a los creadores de mercado y a los proveedores de liquidez. El comercio en ArithFi brinda a los usuarios una experiencia de trading rápida, fácil, segura y transparente. Utilizando un apalancamiento de 1-50X, deposite en la Capa 2 para planificar su comercio relámpago. No es necesario esperar para retirar sus fondos de la Capa 2, y las ganancias futuras se liquidarán en su cuenta de ArithFi.
 
 - Costo más bajo - Sin tarifas de gas durante todo el proceso de trading.
 - Más fluido - Disfruta de una apertura de posiciones sin problemas con el comercio Lightning.

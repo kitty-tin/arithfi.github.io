@@ -59,7 +59,9 @@ Step 4: View your profits.
 
 - Opening and closing positions include a service fee of 0.05% of the position, while adding a margin does not incur a service fee.
 
-- Daily fixed base interest rates ① BTC/USDT, ETH/USDT: 0.03%
+- Daily fixed base interest rates
+
+  ① BTC/USDT, ETH/USDT: 0.03%
 
   ② MATIC/USDT, ADA/USDT, DOGE/USDT, XRP/USDT,BNB/USDT: 0.05%
 

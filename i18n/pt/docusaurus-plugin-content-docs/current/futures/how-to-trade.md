@@ -3,27 +3,27 @@ sidebar_position: 2
 title: How to trade
 ---
 
-# Como você usa o Lightning Trade da ArithFi para sua primeira negociação?
+# Como usar o Lightning Trade da ArithFi para o seu primeiro trade?
 
-ArithFi, uma bolsa descentralizada de derivativos, elimina criadores de mercado e LPs. Negociar no ArithFi proporcionará aos usuários uma experiência de negociação rápida, fácil, segura e transparente. Usando uma alavancagem de 1–50X, deposite na Camada 2 para traçar estratégias para sua negociação relâmpago. Nenhum período de espera é necessário para retirar seus fundos da Camada 2, e os ganhos futuros serão liquidados em sua conta ArithFi.
+A ArithFi, uma exchange descentralizada de derivativos, elimina os market makers e LPs. Negociar na ArithFi oferece aos usuários uma experiência de negociação rápida, fácil, segura e transparente. Utilize uma alavancagem de 1-50X, deposite na Camada 2 para planejar sua negociação relâmpago. Não é necessário um período de espera para retirar seus fundos da Camada 2 e os ganhos futuros serão liquidados em sua conta ArithFi.
 
 - Custo mais baixo - Sem taxa de gás durante todo o processo de negociação.
-- Mais suave - Aproveite a abertura de posição perfeita com negociação relâmpago.
-- Aberto e Transparente - As negociações são executadas rapidamente e confirmadas no blockchain em poucos minutos.
+- Mais fluído - Desfrute da abertura de posições sem interrupções com o lightning trading.
+- Aberto e transparente - As negociações são executadas rapidamente e confirmadas na blockchain em questão de minutos.
 
-**Comece sua experiência Lightning Trade no ArithFi seguindo estas quatro etapas fáceis.**
+**Inicie sua experiência de Lightning Trade na ArithFi seguindo estes quatro passos fáceis.**
 
 Passo 1: Conecte sua carteira e verifique sua conta.
 
-Passo 2: Deposite sua conta ArithFi.
+Passo 2: Deposite em sua conta ArithFi.
 
-Etapa 3: comece a negociar.
+Passo 3: Inicie as negociações.
 
-Etapa 4: visualize seus lucros.
+Passo 4: Visualize seus lucros.
 
-## Passo 1: Conecte sua carteira e verifique sua conta
+## **Passo 1: Conecte sua carteira e verifique sua conta**
 
-(1) Clique em "Conectar carteira" para vincular sua carteira.
+(1) Clique em "Conectar Carteira" para vincular sua carteira.
 
 ###### ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/11.png)
 
@@ -31,42 +31,50 @@ Etapa 4: visualize seus lucros.
 
 ###### ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/22.png)
 
-## Passo 2: Deposite sua conta ArithFi
+## **Passo 2: Deposite em sua conta ArithFi**
 
-(1) Clique em “Conta” e “Depósito” para depositar sua conta ArithFi.
+(1) Clique em "Conta" e depois em "Depósito" para depositar em sua conta ArithFi.
 
 ###### ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/33.png)
 
-(2) Clique em "Visão geral" para visualizar os registros de depósitos e retiradas da sua conta.
+(2) Clique em "Visão Geral" para visualizar o registro de depósitos e saques da sua conta.
 
 ###### ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/44.png)
 
-**Observação:**
+**Nota**:
 
-- O depósito aceita ArithFi (ATF), USDT e BNB como métodos de pagamento. O sistema irá convertê-los para ATF em sua conta ArithFi imediatamente.
-- Não são cobradas taxas de serviço sobre os depósitos, mas apenas uma pequena taxa de gás.
+- O depósito aceita ArithFi (ATF), USDT e BNB como métodos de pagamento. O sistema converterá essas moedas para ATF em sua conta ArithFi imediatamente.
+- Não são cobradas taxas de serviço em depósitos, apenas uma pequena taxa de gás.
 - As retiradas são suportadas apenas em ATF e custam 15 ATF como taxa de serviço para cada retirada.
 
-## Etapa 3: comece a negociar
+![img](https://app.abandon.ai/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2Fa543fa6ded1c35152e7867d51ea6f1d7%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fsa.png&w=64&q=75)
+
+## **Passo 3: Comece a Negociar**
 
 (1) Selecione o par de negociação de futuros, preencha os parâmetros da posição e clique em "Abrir Longo" para abrir a posição.
 
 ###### ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/55.png)
 
-(2) Você pode visualizar e gerenciar seus pedidos na parte inferior, como fechamento de posições, adição de margens, definição de preços de Take Profit e Stop Loss e compartilhamento.
+(2) Você pode visualizar e gerenciar seus pedidos na parte inferior, como fechar posições, adicionar margens, definir preços de Take Profit e Stop Loss, e compartilhar.
 
 ###### ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/66.png)
 
-**Observação:**
+**Nota:**
 
-- As posições de abertura e fechamento incluem uma taxa de serviço de 0,05% da posição, enquanto a adição de margem não acarreta taxa de serviço.
+- Abrir e fechar posições inclui uma taxa de serviço de 0,05% da posição, enquanto adicionar margem não incorre em taxa de serviço.
 
-- Taxas de juros básicas fixas diárias ①BTC/USDT, ETH/USDT: 0,03%
+- Taxas de juros diárias fixas base:
 
-  ②MATIC/USDT, ADA/USDT, DOGE/USDT, XRP/USDT,BNB/USDT: 0,05%
+  ① BTC/USDT, ETH/USDT: 0,03%
 
-## Etapa 4: visualize seus lucros
+  ② MATIC/USDT, ADA/USDT, DOGE/USDT, XRP/USDT, BNB/USDT: 0,05%
 
-(1) Clique em "Conta" e veja seu desempenho comercial e lucro nesta página.
+
+
+
+
+## Passo 4: Visualize seus lucros
+
+(1) Clique em "Conta" e visualize seu desempenho de negociação e lucro nesta página.
 
 ###### ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/77.png)

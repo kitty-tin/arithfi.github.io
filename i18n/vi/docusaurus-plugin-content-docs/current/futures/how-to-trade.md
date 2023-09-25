@@ -3,70 +3,74 @@ sidebar_position: 2
 title: How to trade
 ---
 
-# Bạn sử dụng Lightning Trade của ArithFi cho giao dịch đầu tiên như thế nào?
+# Làm thế nào để sử dụng Giao dịch Lightning Trade của Ar
 
-ArithFi, một trong những công cụ giảm dần dẫn xuất, loại bỏ các điểm yếu của thương mại và LP. Công việc kinh doanh của ArithFi giúp người sử dụng có được trải nghiệm kinh doanh nhanh chóng, dễ dàng, an toàn và minh bạch. Bạn có thể sử dụng một trong số 1–50X, gửi Camada 2 để giải quyết các thỏa thuận thương mại liên quan. Không cần thiết phải có thời gian để rút vốn từ Camada 2 và có thể thanh lý tương lai trong tương lai với ArithFi.
+ArithFi, một sàn giao dịch tương lai phi tập trung, loại bỏ nhà cung cấp thanh khoản và LPs. Giao dịch trên ArithFi sẽ mang đến cho người dùng trải nghiệm giao dịch nhanh chóng, dễ dàng, an toàn và minh bạch. Sử dụng đòn bẩy từ 1-50X, nạp tiền vào Layer 2 để lập chiến lược cho giao dịch nhanh của bạn. Không cần thời gian chờ đợi để rút tiền từ Layer 2 và lợi nhuận tương lai sẽ được giải quyết trong tài khoản ArithFi của bạn.
 
-- Custo mais baixo - Sem taxa de gas durante todo or processo de negociação.
-- Mays suave - Tạo điều kiện thuận lợi cho việc đàm phán liên quan.
-- Aberto e Transparente - Khi các thương vụ được thực thi nhanh chóng và xác nhận rằng không có blockchain trong một vài phút.
+- Chi phí thấp - Không có phí gas trong suốt quá trình giao dịch.
+- Mượt mà hơn - Tận hưởng việc mở vị trí giao dịch mượt mà với giao dịch Lightning.
+- Mở và minh bạch - Các giao dịch được thực hiện nhanh chóng và được xác nhận trên blockchain trong vài phút.
 
-**Bắt đầu trải nghiệm Lightning Trade của bạn trên ArithFi bằng cách làm theo bốn bước đơn giản sau.**
+**Bắt đầu trải nghiệm Giao dịch Lightning trên ArithFi bằng cách làm theo bốn bước đơn giản sau.**
 
-Bước 1: Kết nối ví của bạn và xác minh tài khoản của bạn.
+Bước 1: Kết nối ví của bạn và xác minh tài khoản.
 
-Bước 2: Gửi tài khoản ArithFi của bạn.
+Bước 2: Nạp tiền vào tài khoản ArithFi của bạn.
 
 Bước 3: Bắt đầu giao dịch.
 
 Bước 4: Xem lợi nhuận của bạn.
 
-## Bước 1: Kết nối ví và xác minh tài khoản của bạn
+## Bước 1: Kết nối ví của bạn và xác minh tài khoản.
 
-(1) Nhấp vào "Kết nối ví" để liên kết ví của bạn.
+(1) Nhấp vào "Kết nối Ví" để liên kết ví của bạn.
 
 ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/11.png)
 
-(2) Nhấp vào "Gửi yêu cầu" để xác minh địa chỉ của bạn.
+(2) Nhấp vào "Gửi Yêu cầu" để xác minh địa chỉ của bạn.
 
 ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/22.png)
 
-## Bước 2: Gửi tài khoản ArithFi của bạn
+## Bước 2: Nạp tiền vào tài khoản ArithFi của bạn.
 
-(1) Nhấp vào "Tài khoản" và "Gửi tiền" để gửi tiền vào tài khoản ArithFi của bạn.
+(1) Nhấp vào "Tài khoản" và "Nạp tiền" để nạp tiền vào tài khoản ArithFi của bạn.
 
 ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/33.png)
 
-(2) Nhấp vào "Tổng quan" để xem hồ sơ gửi và rút tiền tài khoản của bạn.
+(2) Nhấp vào "Tổng quan" để xem lịch sử nạp và rút tiền của tài khoản của bạn.
 
 ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/44.png)
 
-**Ghi chú:**
+**Lưu ý:**
 
-- Tiền gửi chấp nhận ArithFi (ATF), USDT và BNB làm phương thức thanh toán. Hệ thống sẽ chuyển chúng sang ATF vào tài khoản ArithFi của bạn ngay.
-- Phí dịch vụ không bị tính trên tiền gửi mà chỉ tính một ít phí gas.
-- Việc rút tiền chỉ được hỗ trợ ATF và tốn 15 ATF phí dịch vụ cho mỗi lần rút tiền.
+- Nạp tiền chấp nhận ArithFi (ATF), USDT và BNB làm phương thức thanh toán. Hệ thống sẽ chuyển đổi chúng thành ATF ngay trong tài khoản ArithFi của bạn.
+- Không tính phí dịch vụ cho việc nạp tiền, chỉ tính một khoản phí gas nhỏ.
+- Việc rút tiền chỉ hỗ trợ ATF và có một khoản phí dịch vụ là 15 ATF cho mỗi lần rút tiền.
 
-## Bước 3: Bắt đầu giao dịch
+## Bước 3: Bắt đầu giao dịch.
 
-(1) Chọn cặp giao dịch tương lai, điền thông số vị thế và nhấp vào "Mở vị thế mua" để mở vị thế.
+(1) Chọn cặp giao dịch hợp đồng tương lai, điền vào các thông số vị trí và nhấp vào "Mở Lệnh Mua" để mở vị trí.
 
 ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/55.png)
 
-(2) Bạn có thể xem và quản lý các lệnh của mình ở phía dưới, chẳng hạn như đóng vị thế, thêm ký quỹ, đặt giá Chốt lời và Cắt lỗ cũng như chia sẻ.
+(2) Bạn có thể xem và quản lý các lệnh của mình ở phần dưới cùng, chẳng hạn như đóng vị trí, thêm biên độ, đặt giá Take Profit và Stop Loss, và chia sẻ.
 
 ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/66.png)
 
-**Ghi chú:**
+**Lưu ý:**
 
-- Mở và đóng các vị thế bao gồm phí dịch vụ 0,05% vị thế, đồng thời việc thêm ký quỹ không phát sinh phí dịch vụ.
+- Mở và đóng vị trí bao gồm một khoản phí dịch vụ là 0,05% của vị trí, trong khi việc thêm biên độ không phát sinh phí dịch vụ.
 
-- Lãi suất cơ bản cố định hàng ngày ① BTC/USDT, ETH/USDT: 0,03%
+- Lãi suất cơ bản cố định hàng ngày:
 
-  ② MATIC/USDT, ADA/USDT, DOGE/USDT, XRP/USDT,BNB/USDT: 0,05%
+  ① BTC/USDT, ETH/USDT: 0,03%
 
-## Bước 4: Xem lợi nhuận của bạn
+  ② MATIC/USDT, ADA/USDT, DOGE/USDT, XRP/USDT, BNB/USDT: 0,05%
 
-(1) Nhấp vào "Tài khoản" để xem hiệu suất giao dịch và lợi nhuận của bạn trên trang này.
+
+
+## Bước 4: Xem lợi nhuận của bạn.
+
+(1) Nhấp vào "Tài khoản" và xem hiệu suất giao dịch và lợi nhuận của bạn trên trang này.
 
 ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/77.png)
