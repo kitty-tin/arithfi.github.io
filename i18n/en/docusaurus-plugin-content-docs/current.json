@@ -14,5 +14,17 @@
   "sidebar.tutorialSidebar.category.Tutorial - Extras": {
     "message": "Tutorial - Extras",
     "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Overview": {
+    "message": "Overview",
+    "description": "The label for category Overview in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Futures": {
+    "message": "Futures",
+    "description": "The label for category Futures in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Copy Trading": {
+    "message": "Copy Trading",
+    "description": "The label for category Copy Trading in sidebar tutorialSidebar"
   }
 }
