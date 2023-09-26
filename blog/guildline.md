@@ -1,7 +1,6 @@
 ---
 slug: guildline
 title: How to use copy trading feature on ArithFi?
-authors: [ArithFi]
 tags: ['guild']
 ---
 
