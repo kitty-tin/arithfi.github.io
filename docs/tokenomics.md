@@ -14,4 +14,6 @@ Token allocation is as follows:
 - 15% allocated to the team and early contributors.
 - 20% allocated to investors.
 - 15% reserved for DAO operational activities and airdrops.
+
+  
 ![Tokenomics](https://nftstorage.link/ipfs/bafkreidbhet4hh2ryijdcydv4ghkpzufmkpqlkhssrthrxf74tafvrtq5q)
