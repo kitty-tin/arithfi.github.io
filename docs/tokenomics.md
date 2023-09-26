@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Tokenomics
 
-ArithFi's token address is:
+ArithFi's token address is: [0x00000000bA2ca30042001aBC545871380F570B1F](https://etherscan.io/address/0x00000000bA2ca30042001aBC545871380F570B1F)
 
 The total supply of ArithFi's token is 1 billion.
 
