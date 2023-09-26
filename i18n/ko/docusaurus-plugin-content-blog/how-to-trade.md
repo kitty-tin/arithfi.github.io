@@ -1,7 +1,6 @@
 ---
 slug: how-to-trade
 title: 첫 번째 거래에 ArithFi의 Lightning Trade를 사용하는 방법은 다음과 같습니다
-authors: [ArithFi]
 tags: ['guild']
 ---
 

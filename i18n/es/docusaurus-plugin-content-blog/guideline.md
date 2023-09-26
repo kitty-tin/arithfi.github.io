@@ -1,7 +1,6 @@
 ---
 slug: guildline
 title: ¿Cómo utilizar la función de copia de operaciones en ArithFi?
-authors: [ArithFi]
 tags: ['guild']
 ---
 

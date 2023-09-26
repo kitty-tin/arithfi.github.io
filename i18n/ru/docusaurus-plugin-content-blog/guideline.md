@@ -1,7 +1,7 @@
 ---
 slug: guildline
 title: Как использовать функцию копирования сделок на ArithFi?
-authors: [ArithFi]
+
 tags: ['guild']
 ---
 

@@ -1,7 +1,7 @@
 ---
 slug: guildline
 title: Làm thế nào để sử dụng tính năng copy trading trên ArithFi?
-authors: [ArithFi]
+
 tags: ['guild']
 ---
 

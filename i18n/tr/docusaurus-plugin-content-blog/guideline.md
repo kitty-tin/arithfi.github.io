@@ -1,7 +1,7 @@
 ---
 slug: guildline
 title: ArithFi'deki kopya işlem özelliğini nasıl kullanabilirim?
-authors: [ArithFi]
+
 tags: ['guild']
 ---
 

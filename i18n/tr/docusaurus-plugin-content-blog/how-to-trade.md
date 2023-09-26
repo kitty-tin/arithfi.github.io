@@ -1,7 +1,7 @@
 ---
 slug: how-to-trade
 title: ArithFi'nin Lightning Trade özelliğini ilk ticaretiniz için nasıl kullanırsınız?
-authors: [ArithFi]
+
 tags: ['guild']
 ---
 
