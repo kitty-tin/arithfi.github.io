@@ -4,7 +4,10 @@ sidebar_position: 2
 
 # 토큰경제학
 
-ArithFi의 토큰 주소는 다음과 같습니다: [0x00000000bA2ca30042001aBC545871380F570B1F](https://etherscan.io/address/0x00000000bA2ca30042001aBC545871380F570B1F)
+ArithFi의 토큰 주소는 다음과 같습니다:
+
+- [0x00000000bA2ca30042001aBC545871380F570B1F](https://etherscan.io/address/0x00000000bA2ca30042001aBC545871380F570B1F) (Ethereum)
+- [0x00000000bA2ca30042001aBC545871380F570B1F](https://bscscan.com/address/0x00000000bA2ca30042001aBC545871380F570B1F) (BNB Chain)
 
 ArithFi의 토큰 총 공급량은 10억입니다.
 
