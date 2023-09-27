@@ -4,7 +4,10 @@ sidebar_position: 2
 
 # Tokenomics
 
-ArithFi's token address is: [0x00000000bA2ca30042001aBC545871380F570B1F](https://etherscan.io/address/0x00000000bA2ca30042001aBC545871380F570B1F)
+ATF token addresses:
+- [0x00000000bA2ca30042001aBC545871380F570B1F](https://etherscan.io/address/0x00000000bA2ca30042001aBC545871380F570B1F) (Ethereum)
+- [0x00000000bA2ca30042001aBC545871380F570B1F](https://bscscan.com/address/0x00000000bA2ca30042001aBC545871380F570B1F) (BNB Chain)
+
 
 The total supply of ArithFi's token is 1 billion.
 
