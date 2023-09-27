@@ -21,7 +21,7 @@ ArithFi uses the SCP (Smart contract as Counterparty) model, where the smart con
    - If the BTC/USDT price rises by 1%, the user's profit is 10%. When the user closes the order, the smart contract will issue 1100 $ATF to the user as settlement.
    - If the BTC/USDT price falls by 1%, the user incurs a loss of 10%. When the user closes the order, the smart contract will issue 900 $ATF to the user as settlement.
   
-<img src=https://nftstorage.link/ipfs/bafkreick2dsenxqugh3lknwosfck5o3axn7nzshb7qxoqmlmae7pwkkdum width=“10%” />
+<img src=“https://nftstorage.link/ipfs/bafkreick2dsenxqugh3lknwosfck5o3axn7nzshb7qxoqmlmae7pwkkdum” width=“50%” />
 
 ### **SCP Model for Options Trading (Not Yet Launched)**
 
