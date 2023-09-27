@@ -19,4 +19,4 @@ Token allocation is as follows:
 - 15% reserved for DAO operational activities and airdrops.
 
   
-![Tokenomics](https://nftstorage.link/ipfs/bafkreidbhet4hh2ryijdcydv4ghkpzufmkpqlkhssrthrxf74tafvrtq5q)
+![Tokenomics](https://nftstorage.link/ipfs/bafkreiglllejqeaxabf6tkwlkyps4hboo4vyc5gguhr34mcehd5g762ahm)
