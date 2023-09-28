@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ArithFi is a decentralized derivatives exchange that eliminates market makers and LPs.
 
-ArithFi uses the SCP model (Smart contract as Counterparty) for all participants.
+ArithFi is based on the SCP (Smart contract Counterparty) model for all participants.
 
 The development of ArithFi will be divided into three phases (Roadmap), and we are currently in phase 1.
 
