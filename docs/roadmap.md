@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Roadmap
 
-## **Phase 1 - Bachelier Phase**
+## **Phase 1 - Newton Phase**
 
 Blockchain technology exhibits the characteristic of increasing marginal costs. Therefore, it is not economically feasible to use Layer1 for commodities and services, as blockchain excels in asset issuance and settlement (see reference article).
 
@@ -12,13 +12,13 @@ ArithFi is dedicated to creating a new class of on-chain assets. In the initial 
 
 In the first phase, we primarily offer futures services, and due to the characteristics of the SCP model, we can cost-effectively introduce many Real World Assets (RWAs), meeting a wider range of user needs and spreading the project's philosophy to more users.
 
-## **Phase 2 - Ito Phase**
+## **Phase 2 - Euler Phase**
 
 Once daily active users surpass 1000, we will initiate our Layer2 plan. ArithFi will build a dedicated Layer2 on Ethereum to enhance decentralization and resistance to censorship.
 
 ArithFi's Layer2 will employ Layer2 technology that supports dedicated channels. These channels ensure that transactions can be confirmed in specific blocks, providing certainty for the settlement timing of on-chain financial products. Existing on-chain financial products often suffer from uncertain settlement timings, as transactions to be confirmed may be delayed due to congestion or malicious attacks. ArithFi aims to address this issue with its in-house Layer2 solution, positioning it as a crucial infrastructure for on-chain derivatives trading.
 
-## **Phase 3 - Doob Phase**
+## **Phase 3 - Gauss Phase**
 
 Following the construction of ArithFi's Layer2, we will create M-Function based on smart contracts. M-Function is a function library combination similar to Ethereum's Virtual Machine (EVM). Each M-Function is configured within a smart contract, allowing anyone to build various financial products, such as futures, options, and other derivatives, based on M-Function and the information flow from oracles.
 
