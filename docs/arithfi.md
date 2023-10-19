@@ -18,8 +18,8 @@ ArithFi uses the SCP (Smart contract as Counterparty) model, where the smart con
 
 1. Users utilize $ATF as collateral. For instance, if a user opens a 10x BTC/USDT Long Position with a collateral of 1000 $ATF, the user is required to send 1000 $ATF to the smart contract (considered as burned).
 2. Oracle-supplied price:
-   - If the BTC/USDT price rises by 1%, the user's profit is 10%. When the user closes the order, the smart contract will issue 1100 $ATF to the user as settlement.
-   - If the BTC/USDT price falls by 1%, the user incurs a loss of 10%. When the user closes the order, the smart contract will issue 900 $ATF to the user as settlement.
+   - If the BTC/USDT price rises by 1%, the user's profit is 10%. When the user closes the position, the smart contract will issue 1100 $ATF to the user as settlement.
+   - If the BTC/USDT price falls by 1%, the user incurs a loss of 10%. When the user closes the position, the smart contract will issue 900 $ATF to the user as settlement.
   
    
 ![SCP Model for Futures Trading](https://nftstorage.link/ipfs/bafkreic5bpb45f44yc4gecebf6kz5ojkzmq2onkmybovfzwjaiauhxprna)
