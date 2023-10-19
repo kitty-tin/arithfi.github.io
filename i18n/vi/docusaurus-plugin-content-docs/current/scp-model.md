@@ -1,5 +1,13 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 ---
 
-# SCP Model
+# Cộng đồng
+
+Twitter: https://twitter.com/ArithFi
+
+Telegram: https://t.me/ArithFi_Dao
+
+Discord: https://discord.gg/ntef7r989x
+
+Medium: https://medium.com/@ArithFi
