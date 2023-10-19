@@ -49,11 +49,11 @@ Step 4: View your profits.
 
 (1) Select the futures trading pair, fill in the position parameters, and click "Open Long" to open the position.
 
-###### ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/55.png)
+###### ![](https://bafybeicntexafcnvlomi7jm5u5m7fv24lse2giw3znzb2zkpfe4pcls5ki.ipfs.nftstorage.link/ATF1.png)
 
 (2) You can view and manage your orders at the bottom, such as closing positions, adding margins, setting Take Profit and Stop Loss prices, and sharing.
 
-###### ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/66.png)
+###### ![](https://bafybeicntexafcnvlomi7jm5u5m7fv24lse2giw3znzb2zkpfe4pcls5ki.ipfs.nftstorage.link/ATF2.png)
 
 **Note:**
 

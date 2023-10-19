@@ -52,11 +52,11 @@ ArithFi는 시장 메이커와 LP(Liquidity Provider)를 제거하는 탈중앙�
 
 (1) 선물 거래 쌍을 선택하고 포지션 매개변수를 입력한 후 "매수 오픈"을 클릭하여 포지션을 오픈합니다.
 
-###### ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/55.png)
+###### ![](https://bafybeicntexafcnvlomi7jm5u5m7fv24lse2giw3znzb2zkpfe4pcls5ki.ipfs.nftstorage.link/ATF1.png)
 
 (2) 포지션 청산, 마진 추가, 이익 실현 및 손실 제한 가격 설정, 공유 등 주문을 하단에서 확인하고 관리할 수 있습니다.
 
-###### ![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/66.png)
+###### ![](https://bafybeicntexafcnvlomi7jm5u5m7fv24lse2giw3znzb2zkpfe4pcls5ki.ipfs.nftstorage.link/ATF2.png)
 
 **참고사항**:
 

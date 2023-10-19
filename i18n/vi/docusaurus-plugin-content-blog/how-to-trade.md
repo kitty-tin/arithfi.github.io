@@ -53,11 +53,11 @@ Bước 4: Xem lợi nhuận của bạn.
 
 (1) Chọn cặp giao dịch hợp đồng tương lai, điền vào các thông số vị trí và nhấp vào "Mở Lệnh Mua" để mở vị trí.
 
-![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/55.png)
+![](https://bafybeicntexafcnvlomi7jm5u5m7fv24lse2giw3znzb2zkpfe4pcls5ki.ipfs.nftstorage.link/ATF1.png)
 
 (2) Bạn có thể xem và quản lý các lệnh của mình ở phần dưới cùng, chẳng hạn như đóng vị trí, thêm biên độ, đặt giá Take Profit và Stop Loss, và chia sẻ.
 
-![](https://bafybeicp5kgnfe7q6vtc6jlprv33setne7hmdwhwthop2juj7j3e257df4.ipfs.nftstorage.link/66.png)
+![](https://bafybeicntexafcnvlomi7jm5u5m7fv24lse2giw3znzb2zkpfe4pcls5ki.ipfs.nftstorage.link/ATF2.png)
 
 **Lưu ý:**
 
