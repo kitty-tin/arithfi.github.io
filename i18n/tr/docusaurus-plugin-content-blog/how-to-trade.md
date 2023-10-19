@@ -51,11 +51,11 @@ Adım 3: Ticarete başlayın.
 
 (1) Vadeli işlemler ticaret çiftini seçin, pozisyon parametrelerini doldurun ve "Uzun Pozisyon Aç" düğmesine tıklayarak pozisyonunuzu açın.
 
-![](https://bafybeicntexafcnvlomi7jm5u5m7fv24lse2giw3znzb2zkpfe4pcls5ki.ipfs.nftstorage.link/ATF1.png)
+![](https://bafybeicu3pvbrwbbnjhovlqizxojkfztcnrssqqbripkhz5yver7xu3lq4.ipfs.nftstorage.link/111.png)
 
 (2) Pozisyonlarınızı kapatma, teminat ekleme, Kar Al ve Zarar Durdur fiyatlarını belirleme ve paylaşma gibi işlemleri yapmak için alt kısımda siparişlerinizi görüntüleyebilir ve yönetebilirsiniz.
 
-![](https://bafybeicntexafcnvlomi7jm5u5m7fv24lse2giw3znzb2zkpfe4pcls5ki.ipfs.nftstorage.link/ATF2.png)
+![](https://bafybeicu3pvbrwbbnjhovlqizxojkfztcnrssqqbripkhz5yver7xu3lq4.ipfs.nftstorage.link/222.png)
 
 **Not:**
 

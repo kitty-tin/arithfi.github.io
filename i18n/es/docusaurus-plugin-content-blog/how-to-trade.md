@@ -52,11 +52,11 @@ Paso 4: Vea sus ganancias.
 
 (1) Seleccione el par de futuros, complete los parámetros de posición y haga clic en "Abrir Largo" para abrir la posición.
 
-![](https://bafybeicntexafcnvlomi7jm5u5m7fv24lse2giw3znzb2zkpfe4pcls5ki.ipfs.nftstorage.link/ATF1.png)
+![](https://bafybeicu3pvbrwbbnjhovlqizxojkfztcnrssqqbripkhz5yver7xu3lq4.ipfs.nftstorage.link/111.png)
 
 (2) Puede ver y gestionar sus órdenes en la parte inferior, como cerrar posiciones, añadir márgenes, establecer precios de Beneficio y Pérdida y compartir.
 
-![](https://bafybeicntexafcnvlomi7jm5u5m7fv24lse2giw3znzb2zkpfe4pcls5ki.ipfs.nftstorage.link/ATF2.png)
+![](https://bafybeicu3pvbrwbbnjhovlqizxojkfztcnrssqqbripkhz5yver7xu3lq4.ipfs.nftstorage.link/222.png)
 
 **Nota:**
 

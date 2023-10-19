@@ -55,11 +55,11 @@ ArithFi, децентрализованная биржа деривативов,
 
 (1) Выберите фьючерсную торговую пару, заполните параметры позиции и нажмите "Открыть длинную позицию", чтобы открыть позицию.
 
-###### ![](https://bafybeicntexafcnvlomi7jm5u5m7fv24lse2giw3znzb2zkpfe4pcls5ki.ipfs.nftstorage.link/ATF1.png)
+###### ![](https://bafybeicu3pvbrwbbnjhovlqizxojkfztcnrssqqbripkhz5yver7xu3lq4.ipfs.nftstorage.link/111.png)
 
 (2) Вы можете просматривать и управлять своими ордерами внизу, такими как закрытие позиций, добавление маржи, установка цен на прибыль и остановку убытков, а также делиться ими.
 
-###### ![](https://bafybeicntexafcnvlomi7jm5u5m7fv24lse2giw3znzb2zkpfe4pcls5ki.ipfs.nftstorage.link/ATF2.png)
+###### ![](https://bafybeicu3pvbrwbbnjhovlqizxojkfztcnrssqqbripkhz5yver7xu3lq4.ipfs.nftstorage.link/222.png)
 
 **Примечание:**
 

@@ -53,11 +53,11 @@ Passo 4: Visualize seus lucros.
 
 (1) Selecione o par de negociação de futuros, preencha os parâmetros da posição e clique em "Abrir Longo" para abrir a posição.
 
-###### ![](https://bafybeicntexafcnvlomi7jm5u5m7fv24lse2giw3znzb2zkpfe4pcls5ki.ipfs.nftstorage.link/ATF1.png)
+###### ![](https://bafybeicu3pvbrwbbnjhovlqizxojkfztcnrssqqbripkhz5yver7xu3lq4.ipfs.nftstorage.link/111.png)
 
 (2) Você pode visualizar e gerenciar seus pedidos na parte inferior, como fechar posições, adicionar margens, definir preços de Take Profit e Stop Loss, e compartilhar.
 
-###### ![](https://bafybeicntexafcnvlomi7jm5u5m7fv24lse2giw3znzb2zkpfe4pcls5ki.ipfs.nftstorage.link/ATF2.png)
+###### ![](https://bafybeicu3pvbrwbbnjhovlqizxojkfztcnrssqqbripkhz5yver7xu3lq4.ipfs.nftstorage.link/222.png)
 
 **Nota:**
 
