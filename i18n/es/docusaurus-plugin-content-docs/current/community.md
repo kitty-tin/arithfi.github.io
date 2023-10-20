@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Cộng đồng
+# Community
 
 Twitter: https://twitter.com/ArithFi
 
