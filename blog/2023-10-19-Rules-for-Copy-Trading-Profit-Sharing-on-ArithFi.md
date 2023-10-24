@@ -26,4 +26,4 @@ ArithFi Copy Trade Profit Sharing feature is live, where traders can share the p
 
 When closing the position, the system will calculate the total profit and loss of 350 ATF generated during the follower's settlement cycle. The actual profit that should be distributed to the trader are 350 * 10% = 35 ATF, but the follower's 50 ATF has been deducted in advance. During settlement, 35 ATF will be allocated to the trader's account, and the extra 35 ATF deducted will be returned to follower's account.
 
-**Note:** The follower and trader must have no copy trading positions opened at settlement time otherwise settlement will be postponed to the 
+**Note:** The follower and trader must have no copy trading positions opened at settlement time otherwise settlement will be postponed to the following settlement cycle.
