@@ -9,14 +9,13 @@ ATF token addresses:
 - [0x00000000bA2ca30042001aBC545871380F570B1F](https://bscscan.com/address/0x00000000bA2ca30042001aBC545871380F570B1F) (BNB Chain)
 
 
-The total supply of ArithFi's token is 1 billion.
+ArithFi'nin token'ın toplam arzı 1 milyar.
 
-Token allocation is as follows:
+Token tahsisi aşağıdaki gibidir:
 
-- 50% locked in the smart contract for token issuance, burning, and cross-chain activities.
-- 15% allocated to the team and early contributors.
-- 20% allocated to investors.
-- 15% reserved for DAO operational activities and airdrops.
+- Token çıkarma, yakma ve zincirler arası faaliyetler için akıllı kontratta kilitli olan token'ın %50'si.
+- Takım ve erken katkıda bulunanlar için ayrılan token'ın %15'i.
+- Yatırımcılar için ayrılan token'ın %20'si.
+- DAO operasyonel faaliyetler ve havuzlar için ayrılan token'ın %15'i.
 
-  
 ![Tokenomics](https://nftstorage.link/ipfs/bafkreiglllejqeaxabf6tkwlkyps4hboo4vyc5gguhr34mcehd5g762ahm)
