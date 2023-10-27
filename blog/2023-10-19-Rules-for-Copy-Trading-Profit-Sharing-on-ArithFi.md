@@ -22,7 +22,7 @@ ArithFi Copy Trade Profit Sharing feature is live, where traders can share the p
 3. Daily P&L update time: Everyday at 00:00 (UTC+8)
 
 ## Calculation
-![file](https://nftstorage.link/ipfs/bafybeieb5hn7nmkyoq7ihzsb4puxnqxg7xntk3qwyrel3qdjmeshqqegcq)
+![file](https://nftstorage.link/ipfs/bafybeifun6davy47fkpuzkqqvcodk2wazyg3yukmdz7gaaspehuxyumdv4)
 
 When closing the position, the system will calculate the total profit and loss of 350 ATF generated during the follower's settlement cycle. The actual profit that should be distributed to the trader are 350 * 10% = 35 ATF, but the follower's 50 ATF has been deducted in advance. During settlement, 35 ATF will be allocated to the trader's account, and the extra 35 ATF deducted will be returned to follower's account.
 
