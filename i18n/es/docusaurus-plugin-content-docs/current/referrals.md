@@ -2,8 +2,8 @@
 sidebar_position: 3
 ---
 
-# Referrals
+# Referencias
 
-Earn commissions and fee reductions through ArithFi's referral program.
+La oración completa en español sería:
 
-If you're interested in obtaining your referral link, please reach out to ArithFi's official representatives via the Community channel. Once you are verified, you can earn a commission of 60% or higher on your referral income.
+Gane comisiones y reducciones de tarifas a través del programa de referencias de ArithFi. Si está interesado en obtener su enlace de referencia, comuníquese con los representantes oficiales de ArithFi a través del canal de la Comunidad. Una vez verificado, puede ganar una comisión del 60% o más sobre sus ingresos por referencias.
