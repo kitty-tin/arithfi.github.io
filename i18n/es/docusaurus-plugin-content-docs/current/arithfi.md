@@ -4,37 +4,36 @@ sidebar_position: 1
 
 # ArithFi
 
-ArithFi is a decentralized derivatives exchange that eliminates market makers and LPs.
+ArithFi es un exchange descentralizado de derivados que elimina a los creadores de mercado y a los LPs.
 
-ArithFi is based on the SCP (Smart contract Counterparty) model for all participants.
+ArithFi se basa en el modelo SCP (Contraparte de contratos inteligentes) para todos los participantes.
 
-The development of ArithFi will be divided into three phases (Roadmap), and we are currently in phase 1.
+El desarrollo de ArithFi se dividirá en tres fases (Hoja de ruta), y actualmente nos encontramos en la fase 1.
 
-## SCP Model
+## Modelo SCP
 
-ArithFi uses the SCP (Smart contract as Counterparty) model, where the smart contract serves as the counterparty for all participants in futures, options, and other derivative transactions. This approach ensures decentralization and potentially infinite liquidity in derivative trading, thanks to blockchain's token issuance and burning mechanisms. In this process, all $ATF token holders collectively assume both risks and rewards. In contrast, traditional financial markets rely on market makers to match and execute derivative transactions, with market makers mitigating risks in the secondary market.
+ArithFi utiliza el modelo SCP (Contrato inteligente como contraparte), donde el contrato inteligente sirve como contraparte para todos los participantes en futuros, opciones y otras transacciones de derivados. Este enfoque garantiza la descentralización y la liquidez potencialmente infinita en la negociación de derivados, gracias a los mecanismos de emisión y quema de tokens de blockchain. En este proceso, todos los titulares de tokens $ATF asumen colectivamente tanto los riesgos como las recompensas. En contraste, los mercados financieros tradicionales dependen de los creadores de mercado para emparejar y ejecutar transacciones de derivados, con los creadores de mercado mitigando riesgos en el mercado secundario.
 
-### SCP Model for Futures Trading
+### Modelo SCP para Operaciones de Futuros
 
-1. Users utilize $ATF as collateral. For instance, if a user opens a 10x BTC/USDT Long Position with a collateral of 1000 $ATF, the user is required to send 1000 $ATF to the smart contract (considered as burned).
-2. Oracle-supplied price:
-   - If the BTC/USDT price rises by 1%, the user's profit is 10%. When the user closes the position, the smart contract will issue 1100 $ATF to the user as settlement.
-   - If the BTC/USDT price falls by 1%, the user incurs a loss of 10%. When the user closes the position, the smart contract will issue 900 $ATF to the user as settlement.
-  
-   
+1. Los usuarios utilizan $ATF como garantía. Por ejemplo, si un usuario abre una posición larga de 10x BTC/USDT con una garantía de 1000 $ATF, el usuario debe enviar 1000 $ATF al contrato inteligente (considerado como quemado).
+2. Precio suministrado por el oráculo:
+Si el precio de BTC/USDT sube un 1%, el usuario obtiene una ganancia del 10%. Cuando el usuario cierre la posición, el contrato inteligente emitirá 1100 $ATF al usuario como liquidación.
+Si el precio de BTC/USDT baja un 1%, el usuario sufre una pérdida del 10%. Cuando el usuario cierre la posición, el contrato inteligente emitirá 900 $ATF al usuario como liquidación.
+    
 ![SCP Model for Futures Trading](https://nftstorage.link/ipfs/bafkreic5bpb45f44yc4gecebf6kz5ojkzmq2onkmybovfzwjaiauhxprna)
 
-### **SCP Model for Options Trading (Not Yet Launched)**
+### **Modelo SCP para Operaciones de Opciones (Aún no lanzado)**
 
-1. Users can use $ATF to purchase options. For instance, if a user buys a BTC/USDT Call Option with a strike price of 30,000 and an expiry date of December 31, 2024, priced at 2,000 $ATF, the user needs to send 2,000 $ATF to the smart contract (considered as burned) as the cost of purchasing the option.
-2. Before the option's expiry, if the option's value calculated through the SCP model at that time is 3,000 $ATF, the user can sell the "BTC/USDT Call Option with a strike price of 30,000 and an expiry date of December 31, 2024" to the smart contract. The smart contract will issue 3,000 $ATF to the user as settlement.
-3. At the option's expiry, if the BTC/USDT price is 35,000 at that time, the option's value for the user is 5,000 $ATF. The user needs to exercise the option, and the smart contract will issue 5,000 $ATF to the user as settlement. If the BTC/USDT price is 25,000 at the option's expiry, then the option's value for the user is 0 $ATF.
+1. Los usuarios pueden utilizar $ATF para comprar opciones. Por ejemplo, si un usuario compra una Opción de Compra de BTC/USDT con un precio de ejercicio de 30,000 y una fecha de vencimiento el 31 de diciembre de 2024, con un precio de 2,000 $ATF, el usuario debe enviar 2,000 $ATF al contrato inteligente (considerado como quemado) como costo de compra de la opción.
+2. Antes del vencimiento de la opción, si el valor de la opción calculado a través del modelo SCP en ese momento es de 3,000 $ATF, el usuario puede vender la "Opción de Compra de BTC/USDT con un precio de ejercicio de 30,000 y una fecha de vencimiento el 31 de diciembre de 2024" al contrato inteligente. El contrato inteligente emitirá 3,000 $ATF al usuario como liquidación.
+3. En el vencimiento de la opción, si el precio de BTC/USDT es de 35,000 en ese momento, el valor de la opción para el usuario es de 5,000 $ATF. El usuario debe ejercer la opción, y el contrato inteligente emitirá 5,000 $ATF al usuario como liquidación. Si el precio de BTC/USDT es de 25,000 en el vencimiento de la opción, entonces el valor de la opción para el usuario es de 0 $ATF.
 
    
-![SCP Model for Options Trading](https://nftstorage.link/ipfs/bafkreiel3cxml5gonft5xkegnvq7e6nfu7resbepgbvb5wuxnakaqsnbn4)
+![Modelo SCP para Operaciones de Opciones](https://nftstorage.link/ipfs/bafkreiel3cxml5gonft5xkegnvq7e6nfu7resbepgbvb5wuxnakaqsnbn4)
 
 
 
-### Features of SCP Model
+### Características del Modelo SCP
 
-The SCP model eliminates the matching and pairing steps in financial derivative transactions. Moreover, all assets based on the SCP model theoretically possess infinite liquidity. In this model, financial derivative trading no longer relies on market makers or liquidity providers (LPs). It is a non-hedging equilibrium model where all token holders collectively share the risks and rewards.
+El modelo SCP elimina los pasos de emparejamiento y aparejamiento en las transacciones de derivados financieros. Además, todos los activos basados en el modelo SCP teóricamente poseen liquidez infinita. En este modelo, la negociación de derivados financieros ya no depende de creadores de mercado o proveedores de liquidez (LPs). Es un modelo de equilibrio no de cobertura en el que todos los titulares de tokens comparten colectivamente los riesgos y las recompensas.
