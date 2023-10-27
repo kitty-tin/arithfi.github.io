@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Community
+# Topluluk
 
 Twitter: https://twitter.com/ArithFi
 
