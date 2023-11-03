@@ -82,7 +82,7 @@ Telegram Channel: https://t.me/ArithFi_Dao
 
 Telegram Group: https://t.me/ArithFi_chat
 
-Twiter: https://twitter.com/ArithFi
+Twitter: https://twitter.com/ArithFi
 
 Discord: https://discord.gg/ntef7r989x
 
