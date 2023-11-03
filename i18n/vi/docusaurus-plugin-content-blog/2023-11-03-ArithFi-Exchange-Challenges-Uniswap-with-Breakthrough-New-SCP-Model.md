@@ -105,7 +105,7 @@ Tóm lại, sàn giao dịch ArithFi giới thiệu mô hình SCP để đối p
 
  
 
-**Tìm hiểu thêm về ArithFi tại:\**
+**Tìm hiểu thêm về ArithFi tại:**
 
 Telegram Channel: https://t.me/ArithFi_Dao
 
