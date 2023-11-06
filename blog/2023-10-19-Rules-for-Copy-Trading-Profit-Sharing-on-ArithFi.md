@@ -17,9 +17,9 @@ ArithFi Copy Trade Profit Sharing feature is live, where traders can share the p
 5. Daily P&L update time: 00:00 (UTC+8), orders opened after this time will be counted in the next P&L calculation cycle.
 
 ## Time
-1. Profit sharing  update time: Every Monday at 00:00 (UTC+8)
-2. Profit sharing  settlement time: Every Monday at 12:00 (UTC+8)
-3. Daily P&L update time: Everyday at 00:00 (UTC+8)
+1. Profit sharing  update time: Every Monday at 00:00 (UTC)
+2. Profit sharing  settlement time: Every Monday at 12:00 (UTC)
+3. Daily P&L update time: Everyday at 00:00 (UTC)
 
 ## Example of profit sharing calculation
 ![file](https://nftstorage.link/ipfs/bafybeifun6davy47fkpuzkqqvcodk2wazyg3yukmdz7gaaspehuxyumdv4)
