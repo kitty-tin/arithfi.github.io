@@ -1,6 +1,6 @@
 ---
 slug: arithfi-accounts-adjustment
-title: Adjustments to ArithFi Accounting System
+title: Adjustments to ArithFi Accounts System
 tags: ['upgrades']
 
 
