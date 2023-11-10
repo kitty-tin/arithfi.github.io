@@ -1,12 +1,12 @@
 ---
-slug: arithfi-accounting-adjustment
+slug: arithfi-accounts-adjustment
 title: Adjustments to ArithFi Accounting System
 tags: ['upgrades']
 
 
 ---
 
-We are pleased to announce that ArithFi's accounting system has undergone restructuring and upgrading. To provide more flexible and efficient trading services, we have split the previous single account system into two parts: a futures account and a copy trading account. The following are the specifics of the adjustment:
+We are pleased to announce that ArithFi's accounts system has undergone restructuring and upgrading. To provide more flexible and efficient trading services, we have split the previous single account system into two parts: a futures account and a copy trading account. The following are the specifics of the adjustment:
 
 ![file](https://nftstorage.link/ipfs/bafybeiebv2lum75t355jjq7qsl6jfvsq2y2zu5754g4ezpdlgqsd7jvg4q)
 
