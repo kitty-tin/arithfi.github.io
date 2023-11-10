@@ -26,6 +26,8 @@ Please note that the data for the two accounts will be produced after the upgrad
 
 We sincerely appreciate your ongoing support and trust in ArithFi. We will continue to strive to provide you with better trading experiences and services. Please feel free to contact us if you have any questions or require assistance.
 
+GitHub:https://github.com/ArithFi/Announcement/blob/main/5_ArithFi_Upgrade_Announcement.md
+
 ArithFi DAO
 
 2023.11.10
