@@ -24,6 +24,8 @@ We are pleased to announce that ArithFi's accounting system has undergone restru
 
 Please note that the data for the two accounts will be produced after the upgrade. The above adjustments will be completed before 12:00 UTC on November 10, 2023, and standard transactions will not be affected during the upgrade.
 
+We sincerely appreciate your ongoing support and trust in ArithFi. We will continue to strive to provide you with better trading experiences and services. Please feel free to contact us if you have any questions or require assistance.
+
 ArithFi DAO
 
 2023.11.10
