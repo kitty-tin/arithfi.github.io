@@ -25,6 +25,7 @@ Don't miss this opportunity to showcase your trading skills and claim the reward
 3. Rewards will be credited to your ArithFi account on Nov 22.
 4. Any attempts to manipulate trading volumes through unfair means will result in immediate disqualification from the event.
 5. ArithFi DAO reserves the right to the final interpretation of the activity rules and the right to adjust the event rules as necessary.
+6. Volume = Open Volume + Close Volume = Initial Margin * Leverage + Initial Margin * Leverage * (Market Price/Open Price)
 
 Stay tuned for the daily trading volume rankings, and get ready to embrace the challenge! Let's push the limits of trading together and witness the birth of a new trading champion.
 Telegram group: https://t.me/ArithFi_chat
