@@ -3,11 +3,11 @@ sidebar_position: 6
 ---
 
 # White Paper
-![0001](https://bafybeibj4m43bgr3pzynjhbrdrrldno5dm3rxz236t52w4v6jfmuzdahji.ipfs.nftstorage.link/11ec53761c2242b4d8fb1cbccb64b77e9mseREPEAmMtaBHQ-2.jpg)
-![0001](https://bafybeibj4m43bgr3pzynjhbrdrrldno5dm3rxz236t52w4v6jfmuzdahji.ipfs.nftstorage.link/11ec53761c2242b4d8fb1cbccb64b77e9mseREPEAmMtaBHQ-3.jpg)
-![0001](https://bafybeibj4m43bgr3pzynjhbrdrrldno5dm3rxz236t52w4v6jfmuzdahji.ipfs.nftstorage.link/11ec53761c2242b4d8fb1cbccb64b77e9mseREPEAmMtaBHQ-4.jpg)
-![0001](https://bafybeibj4m43bgr3pzynjhbrdrrldno5dm3rxz236t52w4v6jfmuzdahji.ipfs.nftstorage.link/11ec53761c2242b4d8fb1cbccb64b77e9mseREPEAmMtaBHQ-5.jpg)
-![0001](https://bafybeibj4m43bgr3pzynjhbrdrrldno5dm3rxz236t52w4v6jfmuzdahji.ipfs.nftstorage.link/11ec53761c2242b4d8fb1cbccb64b77e9mseREPEAmMtaBHQ-6.jpg)
-![0001](https://bafybeibj4m43bgr3pzynjhbrdrrldno5dm3rxz236t52w4v6jfmuzdahji.ipfs.nftstorage.link/11ec53761c2242b4d8fb1cbccb64b77e9mseREPEAmMtaBHQ-7.jpg)
-![0001](https://bafybeibj4m43bgr3pzynjhbrdrrldno5dm3rxz236t52w4v6jfmuzdahji.ipfs.nftstorage.link/11ec53761c2242b4d8fb1cbccb64b77e9mseREPEAmMtaBHQ-8.jpg)
-![0001](https://bafybeibj4m43bgr3pzynjhbrdrrldno5dm3rxz236t52w4v6jfmuzdahji.ipfs.nftstorage.link/11ec53761c2242b4d8fb1cbccb64b77e9mseREPEAmMtaBHQ-9.jpg)
+![0001](https://bafybeiatm2xe2r477e6ymk5h3pey4txj23ff3ajl5dtlfccyg6qgzwuxwa.ipfs.nftstorage.link/wp01.png)
+![0001](https://bafybeiatm2xe2r477e6ymk5h3pey4txj23ff3ajl5dtlfccyg6qgzwuxwa.ipfs.nftstorage.link/wp02.png)
+![0001](https://bafybeiatm2xe2r477e6ymk5h3pey4txj23ff3ajl5dtlfccyg6qgzwuxwa.ipfs.nftstorage.link/wp03.png)
+![0001](https://bafybeiatm2xe2r477e6ymk5h3pey4txj23ff3ajl5dtlfccyg6qgzwuxwa.ipfs.nftstorage.link/wp04.png)
+![0001](https://bafybeiatm2xe2r477e6ymk5h3pey4txj23ff3ajl5dtlfccyg6qgzwuxwa.ipfs.nftstorage.link/wp05.png)
+![0001](https://bafybeiatm2xe2r477e6ymk5h3pey4txj23ff3ajl5dtlfccyg6qgzwuxwa.ipfs.nftstorage.link/wp06.png)
+![0001](https://bafybeiatm2xe2r477e6ymk5h3pey4txj23ff3ajl5dtlfccyg6qgzwuxwa.ipfs.nftstorage.link/wp07.png)
+![0001](https://bafybeiatm2xe2r477e6ymk5h3pey4txj23ff3ajl5dtlfccyg6qgzwuxwa.ipfs.nftstorage.link/wp08.png)
