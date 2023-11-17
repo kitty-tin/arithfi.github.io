@@ -60,9 +60,11 @@ Step 4: View your profits.
 - Opening and closing positions include a service fee of 0.05% of the position, while adding a margin does not incur a service fee.
 
 - Dynamic holding fee rate：
+  
 Calculated based on the long-short position ratio and the base fee rate.
 
 Base fee rate: 
+
 BTC/ETH: 0.03% /day
 Others: 0.05% /day
 
