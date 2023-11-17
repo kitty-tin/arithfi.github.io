@@ -61,14 +61,15 @@ Step 4: View your profits.
 
 - Dynamic holding fee rate：
   
-Calculated based on the long-short position ratio and the base fee rate.
+  Calculated based on the long-short position ratio and the base fee rate.
 
 Base fee rate: 
 
-BTC/ETH: 0.03% /day
-Others: 0.05% /day
-
-Maximum dynamic holding fee rate is 0.2% /day
+> BTC/ETH: 0.03% /day
+> 
+> Others: 0.05% /day
+> 
+> Maximum dynamic holding fee rate is 0.2% /day
 
 ## **Step 4: View Your Profits**
 
