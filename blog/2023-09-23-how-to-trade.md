@@ -59,11 +59,14 @@ Step 4: View your profits.
 
 - Opening and closing positions include a service fee of 0.05% of the position, while adding a margin does not incur a service fee.
 
-- Daily fixed base interest rates
+- Dynamic holding fee rate：
+Calculated based on the long-short position ratio and the base fee rate.
 
-  ① BTC/USDT, ETH/USDT: 0.03%
+Base fee rate: 
+BTC/ETH: 0.03% /day
+Others: 0.05% /day
 
-  ② MATIC/USDT, ADA/USDT, DOGE/USDT, XRP/USDT,BNB/USDT: 0.05%
+Maximum dynamic holding fee rate is 0.2% /day
 
 ## **Step 4: View Your Profits**
 
