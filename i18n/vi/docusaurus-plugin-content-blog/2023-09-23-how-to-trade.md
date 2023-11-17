@@ -63,11 +63,11 @@ Bước 4: Xem lợi nhuận của bạn.
 
 - Mở và đóng vị trí bao gồm một khoản phí dịch vụ là 0,05% của vị trí, trong khi việc thêm biên độ không phát sinh phí dịch vụ.
 
-- Lãi suất cơ bản cố định hàng ngày:
+- Tỷ lệ phí giữ cổ phiếu động: Được tính dựa trên tỷ lệ vị thế mua và bán và tỷ lệ phí cơ bản.
 
-  ① BTC/USDT, ETH/USDT: 0,03%
+Tỷ lệ phí cơ bản: BTC/ETH: 0.03% /ngày Khác: 0.05% /ngày
 
-  ② MATIC/USDT, ADA/USDT, DOGE/USDT, XRP/USDT, BNB/USDT: 0,05%
+Tỷ lệ phí giữ cổ phiếu động tối đa là 0.2% /ngày.
 
 
 
