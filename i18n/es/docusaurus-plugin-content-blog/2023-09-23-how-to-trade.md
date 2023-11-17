@@ -61,7 +61,16 @@ Paso 4: Vea sus ganancias.
 **Nota:**
 
 - Abrir y cerrar posiciones incluye una tarifa de servicio del 0,05% de la posición, mientras que agregar un margen no incurre en una tarifa de servicio.
-- Las tasas de interés base fijas diarias son: 1 BTC/USDT, ETH/USDT: 0,03% 2 MATIC/USDT, ADA/USDT, DOGE/USDT, XRP/USDT, BNB/USDT: 0,05%
+- Tasa de comisión por tenencia dinámica:
+
+Calculada en base a la relación de posiciones largas y cortas y la tasa de comisión base.
+
+Tasa de comisión base: 
+> BTC/ETH: 0.03% /día
+> 
+> Otros: 0.05% /día
+> 
+> La tasa máxima de comisión por tenencia dinámica es del 0.2% /día.
 
 ## **Paso 4: Vea sus ganancias**
 
