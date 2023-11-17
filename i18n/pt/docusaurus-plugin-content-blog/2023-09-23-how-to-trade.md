@@ -63,11 +63,11 @@ Passo 4: Visualize seus lucros.
 
 - Abrir e fechar posições inclui uma taxa de serviço de 0,05% da posição, enquanto adicionar margem não incorre em taxa de serviço.
 
-- Taxas de juros diárias fixas base:
+- Taxa de custódia dinâmica: Calculada com base na proporção de posições longas e curtas e na taxa de custódia base.
 
-  ① BTC/USDT, ETH/USDT: 0,03%
+Taxa de custódia base: BTC/ETH: 0.03% /dia Outros: 0.05% /dia
 
-  ② MATIC/USDT, ADA/USDT, DOGE/USDT, XRP/USDT, BNB/USDT: 0,05%
+A taxa máxima de custódia dinâmica é de 0.2% /dia.
 
 
 
