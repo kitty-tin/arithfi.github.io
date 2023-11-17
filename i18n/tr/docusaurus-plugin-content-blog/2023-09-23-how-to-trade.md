@@ -61,9 +61,11 @@ Adım 3: Ticarete başlayın.
 
 - Pozisyon açma ve kapatma işlemleri pozisyonun %0.05'i kadar hizmet ücretini içerirken, teminat ekleme işlemi hizmet ücreti gerektirmez.
 
-- Günlük sabit baz faiz oranları ① BTC/USDT, ETH/USDT: %0.03
+- Dinamik tutma ücret oranı: Uzun-kısa pozisyon oranına ve temel ücret oranına göre hesaplanır.
 
-  ② MATIC/USDT, ADA/USDT, DOGE/USDT, XRP/USDT,BNB/USDT: %0.05
+Temel ücret oranı: BTC/ETH: Günde %0.03 Diğerleri: Günde %0.05
+
+Maksimum dinamik tutma ücret oranı günde %0.2'dir.
 
 ## Adım 4: Karlarınızı görüntüleyin.
 
