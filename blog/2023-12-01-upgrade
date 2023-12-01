@@ -1,0 +1,23 @@
+---
+slug: arithfi-upgrade-Dec01
+title: ArithFi Adjustment of Dynamic Holding Fee
+tags: ['Upgrades']
+
+---
+
+![file](https://nftstorage.link/ipfs/bafybeifquu37y4mrwm2remjdqitdlbiilof56qbukbkwukil5tuubyrl2m)
+To enhance the trading experience of ArithFi, based on the current trading situation, a dynamic holding fee mechanism will be adjusted as follows:
+
+##### Before
+
+The maximum dynamic holding fee rate is 0.2% /day.
+
+##### After
+
+The maximum dynamic holding fee rate is 0.1% /day.
+
+The above adjustments will be completed before 13:00 UTC on December 1, 2023, and normal transactions will not be affected during the upgrade.
+
+ArithFi DAO
+
+2023.12.01
