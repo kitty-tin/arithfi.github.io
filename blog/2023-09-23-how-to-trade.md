@@ -69,7 +69,7 @@ Base fee rate:
 > 
 > Others: 0.05% /day
 > 
-> Maximum dynamic holding fee rate is 0.2% /day
+> Maximum dynamic holding fee rate is 0.1% /day
 
 ## **Step 4: View Your Profits**
 
