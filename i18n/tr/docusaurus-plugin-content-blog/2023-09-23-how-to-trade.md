@@ -65,7 +65,7 @@ Adım 3: Ticarete başlayın.
 
 Temel ücret oranı: BTC/ETH: Günde %0.03 Diğerleri: Günde %0.05
 
-Maksimum dinamik tutma ücret oranı günde %0.2'dir.
+Maksimum dinamik tutma ücret oranı günde %0.1'dir.
 
 ## Adım 4: Karlarınızı görüntüleyin.
 
