@@ -70,7 +70,7 @@ Tasa de comisión base:
 > 
 > Otros: 0.05% /día
 > 
-> La tasa máxima de comisión por tenencia dinámica es del 0.2% /día.
+> La tasa máxima de comisión por tenencia dinámica es del 0.1% /día.
 
 ## **Paso 4: Vea sus ganancias**
 
