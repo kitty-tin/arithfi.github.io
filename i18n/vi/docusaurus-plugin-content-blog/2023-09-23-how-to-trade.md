@@ -67,7 +67,7 @@ Bước 4: Xem lợi nhuận của bạn.
 
 Tỷ lệ phí cơ bản: BTC/ETH: 0.03% /ngày Khác: 0.05% /ngày
 
-Tỷ lệ phí giữ cổ phiếu động tối đa là 0.2% /ngày.
+Tỷ lệ phí giữ cổ phiếu động tối đa là 0.1% /ngày.
 
 
 
