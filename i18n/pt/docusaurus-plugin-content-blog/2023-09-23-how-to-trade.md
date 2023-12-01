@@ -1,4 +1,5 @@
 ---
+slug: how-to-trade
 sidebar_position: 2
 title: How to trade
 ---
