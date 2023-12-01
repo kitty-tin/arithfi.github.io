@@ -67,7 +67,7 @@ Passo 4: Visualize seus lucros.
 
 Taxa de custódia base: BTC/ETH: 0.03% /dia Outros: 0.05% /dia
 
-A taxa máxima de custódia dinâmica é de 0.2% /dia.
+A taxa máxima de custódia dinâmica é de 0.1% /dia.
 
 
 
