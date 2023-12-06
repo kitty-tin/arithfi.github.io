@@ -6,7 +6,7 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
 
   useEffect(() => {
-    window.location.href = '/docs/arithfi';
+    window.location.href = '/docs/whitepaper/arithfi';
   }, []);
 
   return (
