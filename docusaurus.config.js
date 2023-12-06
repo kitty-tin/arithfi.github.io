@@ -46,7 +46,11 @@ const config = {
           //   'https://github.com/ArithFi/arithfi.github.io/edit/master/',
         },
         blog: {
+          path: 'blog',
           showReadingTime: true,
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
+          // postsPerPage: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -61,6 +65,7 @@ const config = {
         },
       }),
     ],
+    
   ],
   
   themeConfig:
@@ -83,21 +88,6 @@ const config = {
               label: 'Doc',
             },
             {to: '/blog', label: 'Blog', position: 'left'},
-            // {
-            //   type: "dropdown",
-            //   position: "left",
-            //   label: "Blog",
-            //   items: [
-            //     {
-            //       to: '/blog/tags/guild',
-            //       label: 'Guild',
-            //     },
-            //     {
-            //       to: '/blog/tags/news',
-            //       label: 'News',
-            //     },
-            //   ]
-            // },
             {
               type: 'html',
               position: 'right',
