@@ -38,5 +38,5 @@ Completing tasks on zeal and earns contribution XP. Rewards and airdrops will be
 3. Contribution XP rankings and winners list will be announced on Jan 9, and rewards will be distributed on Jan 10.
 
 ## Notes
-Engaging in any form of cheating will result in your disqualification from winning the ultimate reward. A rithFi possesses the ultimate authority to provide an explanation.
+Engaging in any form of cheating will result in your disqualification from winning the ultimate reward. ArithFi possesses the ultimate authority to provide an explanation.
 
