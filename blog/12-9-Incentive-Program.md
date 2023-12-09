@@ -13,7 +13,7 @@ ArithFi officially met with everyone on September 27th this year. ArithFi has ga
 
 **Total prize pool: 15,000 ATF**
 
-#### Reward1 
+#### Reward 1 
 The top ten contributors with XP on Zealy will share **10,000 ATF**
 
 - 1st place: 2,500 ATF
