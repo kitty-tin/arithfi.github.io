@@ -31,7 +31,7 @@ The top ten contributors with XP on Zealy will share **10,000 ATF**
 Participating users will be eligible for an airdrop, sharing **5,000 ATF.**
 
 ## Rules
-Completing tasks on zeal and earning contribution XP. Rewards and airdrops will be distributed based on users' contributions within the ArithFi ecosystem.
+Completing tasks on Zealy and earning contribution XP. Rewards and airdrops will be distributed based on users' contributions within the ArithFi ecosystem.
 
 1. Join Here: https://zealy.io/c/arithfi/invite/XAIWQIlx_UxqqvRqueZOc
 2. Duration: Dec 9, 2023 to Jan 8, 2024 16:00 (UTC+8)
