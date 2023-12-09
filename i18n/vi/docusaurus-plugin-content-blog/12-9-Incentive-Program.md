@@ -1,5 +1,5 @@
 ---
-slug: arithfi-campaign
+slug: arithfi-Incentive-Program
 title: ArithFi Incentive Program
 tags: ['Campaign']
 
