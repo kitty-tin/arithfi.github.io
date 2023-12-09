@@ -16,9 +16,7 @@ Tổng giải thưởng: 15,000 ATF
 
 #### **Phần thưởng 1**
 
- Mười người đóng góp hàng đầu sẽ chia sẻ 10.000 ATF
-
-Top ten contributors with XP on Zealy will share **10,000 ATF**
+ Mười người đóng góp hàng đầu sẽ chia sẻ 10,000 ATF
 
 - Vị trí thứ nhất: 2,500 ATF
 - Vị trí thứ 2: 2,200 ATF
