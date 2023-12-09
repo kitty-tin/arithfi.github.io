@@ -14,7 +14,7 @@ ArithFi officially met with everyone on September 27th this year. ArithFi has ga
 **Total prize pool: 15,000 ATF**
 
 #### Reward1 
-Top ten contributors with XP on Zealy will share **10,000 ATF**
+The top ten contributors with XP on Zealy will share **10,000 ATF**
 
 - 1st place: 2,500 ATF
 - 2nd place: 2,200 ATF
@@ -31,12 +31,11 @@ Top ten contributors with XP on Zealy will share **10,000 ATF**
 Participating users will be eligible for an airdrop, sharing **5,000 ATF.**
 
 ## Rules
-Completing tasks on zeal and earns contribution XP. Rewards and airdrops will be distributed based on users' contributions within the ArithFi ecosystem.
+Completing tasks on zeal and earning contribution XP. Rewards and airdrops will be distributed based on users' contributions within the ArithFi ecosystem.
 
 1. Join Here: https://zealy.io/c/arithfi/invite/XAIWQIlx_UxqqvRqueZOc
 2. Duration: Dec 9, 2023 to Jan 8, 2024 16:00 (UTC+8)
 3. Contribution XP rankings and winners list will be announced on Jan 9, and rewards will be distributed on Jan 10.
 
 ## Notes
-Engaging in any form of cheating will result in your disqualification from winning the ultimate reward. ArithFi possesses the ultimate authority to provide an explanation.
-
+Engaging in cheating will result in your disqualification from winning the ultimate reward. ArithFi possesses the ultimate authority to explain.
