@@ -5,7 +5,7 @@ title: Forex Trading Guide
 tags: ['guild']
 ---
 
-ArithFi currently offers trading for a variety of foreign currency pairs with a fixed leverage of 100x. A service fee of 0.05% of the position size is charged for both opening and closing positions, while no service fee is incurred for adding margin.
+ArithFi currently offers trading for a variety of foreign currency pairs with a fixed leverage of 100x. A service fee of 0.02% of the position size is charged for both opening and closing positions, while no service fee is incurred for adding margin.
 
 Trading Hours 
 Unlike the cryptocurrency futures market, the foreign exchange market is not always open for trading. The following are the reference trading hours:
