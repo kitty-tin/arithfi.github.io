@@ -5,7 +5,7 @@ title: Forex Trading Guide
 tags: ['guild']
 ---
 
-ArithFi atualmente oferece negociação para uma variedade de pares de moedas estrangeiras com uma alavancagem fixa de 100x. Uma taxa de serviço de 0,05% do tamanho da posição é cobrada tanto para abrir quanto para fechar posições, enquanto nenhuma taxa de serviço é incorrida ao adicionar margem.
+ArithFi atualmente oferece negociação para uma variedade de pares de moedas estrangeiras com uma alavancagem fixa de 100x. Uma taxa de serviço de 0,02% do tamanho da posição é cobrada tanto para abrir quanto para fechar posições, enquanto nenhuma taxa de serviço é incorrida ao adicionar margem.
 
 Horário de Negociação
 Ao contrário do mercado de futuros de criptomoedas, o mercado de câmbio nem sempre está aberto para negociação. Seguem os horários de referência:
