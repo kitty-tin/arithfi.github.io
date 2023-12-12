@@ -5,7 +5,7 @@ title: Forex Trading Guide
 tags: ['guild']
 ---
 
-ArithFi şu anda çeşitli döviz çiftleri üzerinde sabit 100x kaldıraçla ticaret imkanı sunmaktadır. Pozisyon büyüklüğünün %0,05'i kadar bir hizmet ücreti, pozisyonları açarken ve kapatırken hem alınırken hem de verilirken alınmaktadır; ancak marj eklenmesi için herhangi bir hizmet ücreti alınmamaktadır.
+ArithFi şu anda çeşitli döviz çiftleri üzerinde sabit 100x kaldıraçla ticaret imkanı sunmaktadır. Pozisyon büyüklüğünün %0,02'i kadar bir hizmet ücreti, pozisyonları açarken ve kapatırken hem alınırken hem de verilirken alınmaktadır; ancak marj eklenmesi için herhangi bir hizmet ücreti alınmamaktadır.
 
 Ticaret Saatleri
 Kripto para vadeli işlemleri piyasasının aksine, döviz piyasası her zaman ticarete açık değildir. Aşağıda referans ticaret saatleri bulunmaktadır:
