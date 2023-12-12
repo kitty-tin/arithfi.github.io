@@ -5,26 +5,25 @@ title: Forex Trading Guide
 tags: ['guild']
 ---
 
-ArithFi currently offers trading for a variety of foreign currency pairs with a fixed leverage of 100x. A service fee of 0.05% of the position size is charged for both opening and closing positions, while no service fee is incurred for adding margin.
+ArithFi в настоящее время предлагает торговлю различными валютными парами с фиксированным кредитным плечом 100x. Сбор за обслуживание в размере 0,05% от размера позиции взимается как при открытии, так и при закрытии позиций, в то время как за добавление маржи сбор не взимается.
 
-Trading Hours 
-Unlike the cryptocurrency futures market, the foreign exchange market is not always open for trading. The following are the reference trading hours:
+Часы торговли
+В отличие от рынка фьючерсов на криптовалюты, рынок иностранной валюты не всегда открыт для торговли. Вот ссылочные часы торговли:
 
-| Day of the week | Market Open / Close     |
-|-----------------|-------------------------|
-| Monday          | Open all day            |
-| Tuesday         | Open all day            |
-| Wednesday       | Open all day            |
-| Friday          | Closed from 10 PM (UTC) |
-|                 |                         |
-| Saturday        | Closed all day          |
-| Sunday          | Open from 10 PM (UTC)   |
+| День недели | Открытие / Закрытие рынка   |
+|-------------|---------------------------|
+| Понедельник | Открыто весь день          |
+| Вторник     | Открыто весь день          |
+| Среда       | Открыто весь день          |
+| Пятница     | Закрыто с 22:00 (UTC)      |
+|             |                           |
+| Суббота     | Закрыто весь день          |
+| Воскресенье | Открыто с 22:00 (UTC)      |
 
+Кроме того, рынок будет закрыт в следующие дни:
+Рождество, с 24 по 25 декабря; Новый год, 1 января
 
-Additionally, the market will be closed on the following days: 
-Christmas, December 24th to 25th; New Year’s Day, January 1st
+Во время закрытия рынка вы не сможете торговать, закрывать позиции или выполнять какие-либо операции с вашими позициями.
 
-During the market closure, you will not be able to trade, close positions, or perform any operations on your positions.
-
-Overnight Position Fee is fixed at 0.03% /day. 
-Positions that are not closed during the market closure will still incur the overnight position fee as usual.
+Сбор за ночную позицию фиксирован и составляет 0,03% в день.
+Позиции, не закрытые во время закрытия рынка, все равно будут облагаться сбором за ночь как обычно.
