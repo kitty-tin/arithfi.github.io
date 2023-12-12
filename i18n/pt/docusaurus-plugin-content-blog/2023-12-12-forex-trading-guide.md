@@ -5,26 +5,25 @@ title: Forex Trading Guide
 tags: ['guild']
 ---
 
-ArithFi currently offers trading for a variety of foreign currency pairs with a fixed leverage of 100x. A service fee of 0.05% of the position size is charged for both opening and closing positions, while no service fee is incurred for adding margin.
+ArithFi atualmente oferece negociação para uma variedade de pares de moedas estrangeiras com uma alavancagem fixa de 100x. Uma taxa de serviço de 0,05% do tamanho da posição é cobrada tanto para abrir quanto para fechar posições, enquanto nenhuma taxa de serviço é incorrida ao adicionar margem.
 
-Trading Hours 
-Unlike the cryptocurrency futures market, the foreign exchange market is not always open for trading. The following are the reference trading hours:
+Horário de Negociação
+Ao contrário do mercado de futuros de criptomoedas, o mercado de câmbio nem sempre está aberto para negociação. Seguem os horários de referência:
 
-| Day of the week | Market Open / Close     |
-|-----------------|-------------------------|
-| Monday          | Open all day            |
-| Tuesday         | Open all day            |
-| Wednesday       | Open all day            |
-| Friday          | Closed from 10 PM (UTC) |
-|                 |                         |
-| Saturday        | Closed all day          |
-| Sunday          | Open from 10 PM (UTC)   |
+| Dia da semana | Abertura / Fechamento do Mercado |
+| -------------- | --------------------------------- |
+| Segunda-feira  | Aberto o dia todo                 |
+| Terça-feira    | Aberto o dia todo                 |
+| Quarta-feira   | Aberto o dia todo                 |
+| Sexta-feira    | Fechado a partir das 22h (UTC)    |
+|                |                                   |
+| Sábado         | Fechado o dia todo                |
+| Domingo        | Aberto a partir das 22h (UTC)     |
 
+Além disso, o mercado estará fechado nos seguintes dias:
+Natal, de 24 a 25 de dezembro; Ano Novo, 1º de janeiro
 
-Additionally, the market will be closed on the following days: 
-Christmas, December 24th to 25th; New Year’s Day, January 1st
+Durante o fechamento do mercado, você não poderá negociar, fechar posições ou realizar qualquer operação em suas posições.
 
-During the market closure, you will not be able to trade, close positions, or perform any operations on your positions.
-
-Overnight Position Fee is fixed at 0.03% /day. 
-Positions that are not closed during the market closure will still incur the overnight position fee as usual.
+A taxa de pernoite é fixada em 0,03% ao dia.
+Posições que não forem fechadas durante o fechamento do mercado ainda incorrerão na taxa de pernoite como de costume.
