@@ -5,7 +5,7 @@ title: Forex Trading Guide
 tags: ['guild']
 ---
 
-ArithFi actualmente ofrece trading para una variedad de pares de divisas extranjeras con un apalancamiento fijo de 100x. Se cobra una tarifa de servicio del 0.05% del tamaño de la posición tanto para abrir como para cerrar posiciones, mientras que no se incurre en ninguna tarifa de servicio al agregar margen.
+ArithFi actualmente ofrece trading para una variedad de pares de divisas extranjeras con un apalancamiento fijo de 100x. Se cobra una tarifa de servicio del 0.02% del tamaño de la posición tanto para abrir como para cerrar posiciones, mientras que no se incurre en ninguna tarifa de servicio al agregar margen.
 
 Horario de Trading
 A diferencia del mercado de futuros de criptomonedas, el mercado de divisas no está siempre abierto para el trading. A continuación se muestran los horarios de trading de referencia:
