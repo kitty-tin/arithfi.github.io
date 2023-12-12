@@ -5,7 +5,7 @@ title: Forex Trading Guide
 tags: ['guild']
 ---
 
-ArithFi hiện đang cung cấp giao dịch cho nhiều cặp tiền tệ nước ngoài với tỷ lệ đòn bẩy cố định là 100x. Một phí dịch vụ tương đương 0,05% giá trị vị thế được tính cả khi mở và đóng vị thế, trong khi không có phí dịch vụ nào được áp dụng khi thêm vào biên đảm bảo.
+ArithFi hiện đang cung cấp giao dịch cho nhiều cặp tiền tệ nước ngoài với tỷ lệ đòn bẩy cố định là 100x. Một phí dịch vụ tương đương 0,02% giá trị vị thế được tính cả khi mở và đóng vị thế, trong khi không có phí dịch vụ nào được áp dụng khi thêm vào biên đảm bảo.
 
 Giờ Giao Dịch
 Khác với thị trường hợp đồng tương lai tiền điện tử, thị trường ngoại hối không luôn mở cửa để giao dịch. Dưới đây là giờ giao dịch tham chiếu:
