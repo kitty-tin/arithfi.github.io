@@ -5,26 +5,25 @@ title: Forex Trading Guide
 tags: ['guild']
 ---
 
-ArithFi currently offers trading for a variety of foreign currency pairs with a fixed leverage of 100x. A service fee of 0.05% of the position size is charged for both opening and closing positions, while no service fee is incurred for adding margin.
+ArithFi hiện đang cung cấp giao dịch cho nhiều cặp tiền tệ nước ngoài với tỷ lệ đòn bẩy cố định là 100x. Một phí dịch vụ tương đương 0,05% giá trị vị thế được tính cả khi mở và đóng vị thế, trong khi không có phí dịch vụ nào được áp dụng khi thêm vào biên đảm bảo.
 
-Trading Hours 
-Unlike the cryptocurrency futures market, the foreign exchange market is not always open for trading. The following are the reference trading hours:
+Giờ Giao Dịch
+Khác với thị trường hợp đồng tương lai tiền điện tử, thị trường ngoại hối không luôn mở cửa để giao dịch. Dưới đây là giờ giao dịch tham chiếu:
 
-| Day of the week | Market Open / Close     |
-|-----------------|-------------------------|
-| Monday          | Open all day            |
-| Tuesday         | Open all day            |
-| Wednesday       | Open all day            |
-| Friday          | Closed from 10 PM (UTC) |
-|                 |                         |
-| Saturday        | Closed all day          |
-| Sunday          | Open from 10 PM (UTC)   |
+| Ngày trong tuần | Mở cửa / Đóng cửa thị trường |
+|-----------------|-------------------------------|
+| Thứ Hai         | Mở cửa cả ngày              |
+| Thứ Ba          | Mở cửa cả ngày              |
+| Thứ Tư          | Mở cửa cả ngày              |
+| Thứ Sáu         | Đóng cửa từ 22 giờ (UTC)     |
+|                 |                               |
+| Thứ Bảy         | Đóng cửa cả ngày            |
+| Chủ Nhật        | Mở cửa từ 22 giờ (UTC)       |
 
+Ngoài ra, thị trường sẽ đóng cửa vào những ngày sau:
+Giáng sinh, từ ngày 24 đến 25 tháng 12; Tết Dương lịch, ngày 1 tháng 1
 
-Additionally, the market will be closed on the following days: 
-Christmas, December 24th to 25th; New Year’s Day, January 1st
+Trong thời gian thị trường đóng cửa, bạn sẽ không thể giao dịch, đóng các vị thế hoặc thực hiện bất kỳ thao tác nào trên vị thế của mình.
 
-During the market closure, you will not be able to trade, close positions, or perform any operations on your positions.
-
-Overnight Position Fee is fixed at 0.03% /day. 
-Positions that are not closed during the market closure will still incur the overnight position fee as usual.
+Phí giữ vị thế qua đêm được cố định là 0,03% mỗi ngày.
+Các vị thế không được đóng trong thời gian thị trường đóng cửa vẫn sẽ phải trả phí giữ vị thế qua đêm như thường lệ.
