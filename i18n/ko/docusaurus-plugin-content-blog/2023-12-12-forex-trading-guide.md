@@ -5,26 +5,25 @@ title: Forex Trading Guide
 tags: ['guild']
 ---
 
-ArithFi currently offers trading for a variety of foreign currency pairs with a fixed leverage of 100x. A service fee of 0.05% of the position size is charged for both opening and closing positions, while no service fee is incurred for adding margin.
+ArithFi는 현재 100배의 고정 레버리지로 다양한 외환 통화 쌍에 대한 거래를 제공합니다. 포지션 크기의 0.05%에 해당하는 서비스 수수료가 포지션을 열거나 닫을 때 모두 부과되며, 마진 추가에는 서비스 수수료가 부과되지 않습니다.
 
-Trading Hours 
-Unlike the cryptocurrency futures market, the foreign exchange market is not always open for trading. The following are the reference trading hours:
+거래 시간
+암호화폐 선물 시장과는 달리 외환 시장은 항상 거래 가능한 상태가 아닙니다. 다음은 참고용 거래 시간입니다.
 
-| Day of the week | Market Open / Close     |
-|-----------------|-------------------------|
-| Monday          | Open all day            |
-| Tuesday         | Open all day            |
-| Wednesday       | Open all day            |
-| Friday          | Closed from 10 PM (UTC) |
-|                 |                         |
-| Saturday        | Closed all day          |
-| Sunday          | Open from 10 PM (UTC)   |
+| 요일           | 시장 오픈/마감            |
+|----------------|-------------------------|
+| 월요일          | 하루 종일 오픈          |
+| 화요일          | 하루 종일 오픈          |
+| 수요일          | 하루 종일 오픈          |
+| 금요일          | 10 PM (UTC)부터 마감    |
+|                |                         |
+| 토요일          | 하루 종일 마감          |
+| 일요일          | 10 PM (UTC)부터 오픈   |
 
+또한 다음 날짜에는 시장이 폐쇄됩니다.
+크리스마스, 12월 24일부터 25일까지; 신정, 1월 1일
 
-Additionally, the market will be closed on the following days: 
-Christmas, December 24th to 25th; New Year’s Day, January 1st
+시장 폐쇄 기간 동안 거래, 포지션 닫기 또는 포지션에 대한 어떠한 작업도 수행할 수 없습니다.
 
-During the market closure, you will not be able to trade, close positions, or perform any operations on your positions.
-
-Overnight Position Fee is fixed at 0.03% /day. 
-Positions that are not closed during the market closure will still incur the overnight position fee as usual.
+숙박 포지션 수수료는 하루에 0.03%로 고정됩니다.
+시장 폐쇄 기간 동안 닫히지 않은 포지션은 여전히 일반적인 숙박 포지션 수수료가 부과됩니다.
