@@ -5,26 +5,25 @@ title: Forex Trading Guide
 tags: ['guild']
 ---
 
-ArithFi currently offers trading for a variety of foreign currency pairs with a fixed leverage of 100x. A service fee of 0.05% of the position size is charged for both opening and closing positions, while no service fee is incurred for adding margin.
+ArithFi şu anda çeşitli döviz çiftleri üzerinde sabit 100x kaldıraçla ticaret imkanı sunmaktadır. Pozisyon büyüklüğünün %0,05'i kadar bir hizmet ücreti, pozisyonları açarken ve kapatırken hem alınırken hem de verilirken alınmaktadır; ancak marj eklenmesi için herhangi bir hizmet ücreti alınmamaktadır.
 
-Trading Hours 
-Unlike the cryptocurrency futures market, the foreign exchange market is not always open for trading. The following are the reference trading hours:
+Ticaret Saatleri
+Kripto para vadeli işlemleri piyasasının aksine, döviz piyasası her zaman ticarete açık değildir. Aşağıda referans ticaret saatleri bulunmaktadır:
 
-| Day of the week | Market Open / Close     |
-|-----------------|-------------------------|
-| Monday          | Open all day            |
-| Tuesday         | Open all day            |
-| Wednesday       | Open all day            |
-| Friday          | Closed from 10 PM (UTC) |
-|                 |                         |
-| Saturday        | Closed all day          |
-| Sunday          | Open from 10 PM (UTC)   |
+| Haftanın Günü  | Piyasa Açılış / Kapanış  |
+| ---------------| ------------------------|
+| Pazartesi      | Gün boyunca açık        |
+| Salı           | Gün boyunca açık        |
+| Çarşamba       | Gün boyunca açık        |
+| Cuma           | Saat 22:00'de kapanır (UTC) |
+|                |                         |
+| Cumartesi      | Gün boyunca kapalı      |
+| Pazar          | Saat 22:00'de açılır (UTC) |
 
+Ayrıca, aşağıdaki günlerde piyasa kapalı olacaktır:
+Noel, 24-25 Aralık; Yılbaşı, 1 Ocak
 
-Additionally, the market will be closed on the following days: 
-Christmas, December 24th to 25th; New Year’s Day, January 1st
+Piyasa kapalı olduğunda ticaret yapamaz, pozisyonları kapatamaz veya pozisyonlarınız üzerinde herhangi bir işlem gerçekleştiremezsiniz.
 
-During the market closure, you will not be able to trade, close positions, or perform any operations on your positions.
-
-Overnight Position Fee is fixed at 0.03% /day. 
-Positions that are not closed during the market closure will still incur the overnight position fee as usual.
+Gecelik Pozisyon Ücreti sabit olarak %0,03'tür.
+Piyasa kapanışı sırasında kapatılmayan pozisyonlar, yine de olağan gecelik pozisyon ücretine tabi olacaktır.
