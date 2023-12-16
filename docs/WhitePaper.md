@@ -3,4 +3,4 @@ sidebar_position: 6
 ---
 
 # White Paper
-[whitepaper](https://nftstorage.link/ipfs/bafybeif3fwrq4gu22of2wjg6gftzazevaigvqyt5ikvbddk5mjgn2i6wmm)
+Please click here to see more detail of [whitepaper](https://nftstorage.link/ipfs/bafybeift3awjmixue5mqjmqj6ozytmjws5se3jh3n7ulg7gbj5itodyh54)
