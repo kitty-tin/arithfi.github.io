@@ -28,3 +28,7 @@
   --ifm-color-primary-lightest: #ffb941;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.menu__link.menu__link--sublist.menu__link--sublist-caret {
+  font-weight: 700;
+}

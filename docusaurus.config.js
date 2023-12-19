@@ -83,11 +83,16 @@ const config = {
           items: [
             {
               type: 'docSidebar',
-              sidebarId: 'tutorialSidebar',
+              sidebarId: 'whitepaperSidebar',
               position: 'left',
               label: 'Doc',
             },
-            {to: '/blog', label: 'Blog', position: 'left'},
+            {
+              type: 'docSidebar',
+              sidebarId: 'blogsSidebar',
+              position: 'left',
+              label: 'Blogs',
+            },
             {
               type: 'html',
               position: 'right',
