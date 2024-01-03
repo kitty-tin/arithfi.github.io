@@ -21,3 +21,7 @@ ArithFi, is a decentralized derivatives exchange eliminates market makers and LP
    When you use swap feature for the first time, you need to click "Approve" first and then click "Swap".
 
 ![0001](https://bafybeia262kbv4yinvnzejbndc4swv7xhconoq46khtsxjvwgrmdw5fbzq.ipfs.nftstorage.link/0003.png)
+
+4. Click SWAP to complete the buy or sell.
+
+![0001](https://nftstorage.link/ipfs/bafkreifi3bbymrjno3afnvmntfzktyxvzfqpuyek3z4ix6w76ksatggfty)
