@@ -1,5 +1,5 @@
 ---
-slug: Article
+slug: What-is-ArithFi-A-derivative-trading-platform-with-an-innovative-SCP-model
 title: What is ArithFi (ATF)? A derivative trading platform with an innovative SCP model.
 
 tags: ['Article']

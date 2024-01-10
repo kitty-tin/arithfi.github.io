@@ -1,5 +1,5 @@
 ---
-slug: Article
+slug: The-Hidden-Costs-of-Centralized-Exchanges-The-Reality-of-Slippage
 title: The Hidden Costs of Centralized Exchanges - The Reality of Slippage.
 
 tags: ['Article']
