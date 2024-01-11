@@ -1,6 +1,6 @@
 ---
-slug: SCP Model: Leading-the-Exchange-Revolution-with-0-Trading-Fees-and-0-Slippage Era
-title: SCP Model: Leading the Exchange Revolution with 0 Trading Fees and 0 Slippage Era.
+slug: Leading-the-Exchange-Revolution-with-0-Trading-Fees-and-0-Slippage-Era
+title: SCP Model Leading the Exchange Revolution with 0 Trading Fees and 0 Slippage Era.
 
 tags: ['Article']
 ---
