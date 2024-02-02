@@ -1,6 +1,6 @@
 ---
 slug: the-third-class-of-decentralized-asset-poised-to-fllow-BTC-and-ETH
-title: ATF: The Third Class of Decentralized Asset Poised to Follow BTC and ETH
+title: ATF The Third Class of Decentralized Asset Poised to Follow BTC and ETH
 
 tags: ['Article']
 
