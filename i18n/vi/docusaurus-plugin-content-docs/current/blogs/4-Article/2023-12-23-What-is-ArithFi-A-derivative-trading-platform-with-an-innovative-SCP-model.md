@@ -1,73 +1,71 @@
 ---
 slug: What-is-ArithFi-A-derivative-trading-platform-with-an-innovative-SCP-model
-title: What is ArithFi (ATF)? A derivative trading platform with an innovative SCP model.
+title: ArithFi (ATF) là một nền tảng giao dịch tương lai với mô hình SCP đổi mới.
 
 tags: ['Article']
 ---
 
-ArithFi is a derivative trading platform that utilizes the SCP (Smart Contract as Counterparty) model to act as a partner in futures and options trading for all users. ArithFi eliminates entities like MM (Market Makers) and LP (Liquidity Providers) to provide a unique derivative trading experience for users. 
+ArithFi là một nền tảng giao dịch tương lai sử dụng mô hình SCP (Smart Contract as Counterparty) để hoạt động như một đối tác trong giao dịch hợp đồng tương lai và quyền chọn cho tất cả người dùng. ArithFi loại bỏ các thực thể như MM (Market Makers) và LP (Liquidity Providers) để cung cấp trải nghiệm giao dịch tương lai độc đáo cho người dùng.
 
-##### What is ArithFi?
-ArithFi is a derivative trading platform that employs the SCP (Smart Contract as Counterparty) model, with smart contracts acting as counterparts in futures and options trading for all users. ArithFi also eliminates market makers (MM) and liquidity providers (LP) to mitigate risks and remove the order matching steps in traditional derivative trading.
+##### ArithFi là gì?
+ArithFi là một nền tảng giao dịch tương lai sử dụng mô hình SCP (Smart Contract as Counterparty), với các hợp đồng thông minh hoạt động như các đối tác trong giao dịch hợp đồng tương lai và quyền chọn cho tất cả người dùng. ArithFi cũng loại bỏ các nhà tạo lập thị trường (MM) và nhà cung cấp thanh khoản (LP) để giảm thiểu rủi ro và loại bỏ các bước khớp lệnh trong giao dịch tương lai truyền thống.
 
    ###### ![What is ArithFi.png](https://nftstorage.link/ipfs/bafkreiaxjt4xqwfoxsvxwxhattypuuwb7qvkdr5hf7zyzgi4xjan76r7by)
 
-##### The Operational Mechanism of ArithFi
-ArithFi employs the SCP model, with smart contracts acting as counterparts for all participants in the derivative trading platform. This approach ensures decentralization and virtually unlimited liquidity in derivative trading through the issuance and burning of ATF tokens.
-Furthermore, ArithFi eliminates key entities such as MM and LP from the trading process, promoting fairness among all ATF token holders. As a result, they will collectively share risks and, in turn, profit in proportion to their participation in derivative trading on ArithFi.
+##### Cơ chế hoạt động của ArithFi
+ArithFi sử dụng mô hình SCP, với các hợp đồng thông minh hoạt động như các đối tác cho tất cả các bên tham gia trong nền tảng giao dịch tương lai. Cách tiếp cận này đảm bảo sự phi tập trung và tính thanh khoản vô hạn trong giao dịch tương lai thông qua việc phát hành và hủy bỏ token ATF.
+Hơn nữa, ArithFi loại bỏ các thực thể chính như MM và LP khỏi quy trình giao dịch, thúc đẩy sự công bằng giữa tất cả các chủ sở hữu token ATF. Kết quả là, họ sẽ chia sẻ rủi ro và lợi nhuận tỷ lệ với sự tham gia của họ trong giao dịch tương lai trên ArithFi.
 
-##### SCP Model for Futures Trading
-The SCP model operates in futures trading as illustrated by the following example:
+##### Mô hình SCP cho Giao dịch Hợp đồng Tương lai
+Mô hình SCP hoạt động trong giao dịch hợp đồng tương lai như ví dụ sau đây:
 
-If a user opens a long position in BTC/USDT with a leverage of 10x, collateralizing it with 1000 ATF tokens, they are required to send 1000 ATF to the smart contract as an opening fee (considered as burning ATF tokens). From this point, two scenarios can unfold:
+Nếu một người dùng mở một vị thế dài trong BTC/USDT với đòn bẩy 10x, cung cấp tài sản đảm bảo bằng 1000 token ATF, họ cần gửi 1000 ATF đến hợp đồng thông minh như một phí mở vị thế (coi như là hủy bỏ token ATF). Từ điểm này, có hai kịch bản có thể xảy ra:
 
-○ If the BTC/USDT price increases by 1%, the user's profit is 10%. When the user closes the position, the smart contract automatically returns 1000 ATF plus 100 ATF in profit to the user.
+○ Nếu giá BTC/USDT tăng 1%, lợi nhuận của người dùng là 10%. Khi người dùng đóng vị thế, hợp đồng thông minh tự động trả lại 1000 ATF cộng với 100 ATF lợi nhuận cho người dùng.
 
-○ If the BTC/USDT price decreases by 1%, the user incurs a loss of 10%. When the user closes the position, the smart contract automatically returns the remaining 900 ATF to the user.
+○ Nếu giá BTC/USDT giảm 1%, người dùng chịu lỗ 10%. Khi người dùng đóng vị thế, hợp đồng thông minh tự động trả lại 900 ATF còn lại cho người dùng.
 
    ###### ![222.png](https://nftstorage.link/ipfs/bafybeid33si37trcnhafbpfhwy7xedmwzo7ljnrsrm27n4i6sbcrphjxam)
 
-##### SCP model for options trading
-The SCP model operates through an example of option trading as follows:
+##### Mô hình SCP cho giao dịch quyền chọn
+Mô hình SCP hoạt động thông qua ví dụ về giao dịch quyền chọn như sau:
 
-If a user buys a call option for BTC/USDT at a cost of 2000 ATF, with a strike price of $30,000 and an expiration date of December 31, 2024, they need to send 2000 ATF to the smart contract as the option opening fee (considered as burning ATF tokens). Before the option expires, two scenarios can occur:
+Nếu một người dùng mua một quyền chọn mua (call option) cho BTC/USDT với chi phí 2000 ATF, có giá thực hiện là $30,000 và ngày hết hạn là 31 tháng 12 năm 2024, họ cần gửi 2000 ATF đến hợp đồng thông minh như phí mở quyền chọn (coi như là hủy bỏ token ATF). Trước khi quyền chọn hết hạn, hai kịch bản có thể xảy ra:
 
-○ If the option's calculated value through the SCP model at that time is 3000 ATF, the user can sell the option to the smart contract. In this case, the smart contract will automatically return the initial 2000 ATF plus 1000 ATF in profit to the user.
+○ Nếu giá trị của quyền chọn được tính toán thông qua mô hình SCP tại thời điểm đó là 3000 ATF, người dùng có thể bán quyền chọn cho hợp đồng thông minh. Trong trường hợp này, hợp đồng thông minh sẽ tự động trả lại 2000 ATF ban đầu cộng với 1000 ATF lợi nhuận cho người dùng.
 
-○ When the option expires, if the BTC/USDT price at that time is $35,000, the option's value for the user is 5000 ATF. The user needs to execute the option sale, and the smart contract will automatically transfer 2000 ATF plus 3000 ATF in profit to the user. However, if the BTC/USDT price is $25,000 when the option expires, the option's value for the user is 0 ATF, indicating they have incurred a complete loss.
+○ Khi quyền chọn hết hạn, nếu giá BTC/USDT tại thời điểm đó là $35,000, giá trị của quyền chọn cho người dùng là 5000 ATF. Người dùng cần thực hiện việc bán quyền chọn, và hợp đồng thông minh sẽ tự động chuyển 2000 ATF cộng với 3000 ATF lợi nhuận cho người dùng. Tuy nhiên, nếu giá BTC/USDT là $25,000 khi quyền chọn hết hạn, giá trị của quyền chọn cho người dùng là 0 ATF, chỉ ra rằng họ đã chịu lỗ hoàn toàn.
 
    ![44.jpg](https://nftstorage.link/ipfs/bafybeicy5mdpgm2snkdvwtvfbyv2bbw5sr73ltwx62abbskz4eofhord2a)
 
 
 
-##### Features of ArithFi
-##### Features
-This feature allows users to trade futures contracts for various crypto and forex assets, with a maximum leverage of up to 50x. There are three types of trading orders available for users to choose from, including Limit, Market, and Stop-limit.
+##### Đặc điểm của ArithFi
+##### Tính năng
+Tính năng này cho phép người dùng giao dịch hợp đồng tương lai cho các tài sản tiền điện tử và ngoại hối, với đòn bẩy tối đa lên đến 50x. Có ba loại lệnh giao dịch có sẵn cho người dùng lựa chọn, bao gồm Lệnh giới hạn (Limit), Lệnh thị trường (Market), và Lệnh giới hạn dừng (Stop-limit).
 
    ###### ![333.png](https://nftstorage.link/ipfs/bafkreic6xe2v7vgqup5emevkmuizpetmzxrdxfn5nskzy4dmvrnwfj6dvm)
 
-Note: Users can only trade with ATF tokens, so they will need to use the next feature, Swap, in order to participate in trading.
-
+Lưu ý: Người dùng chỉ có thể giao dịch bằng token ATF, vì vậy họ cần sử dụng tính năng tiếp theo, Swap, để tham gia vào giao dịch.
 
 ##### Swap
 
-This is a feature that allows users to swap other tokens for ATF tokens in order to trade on the platform. However, ArithFi currently only supports swapping USDT for ATF and will provide support for other token types in the future.
+Đây là một tính năng cho phép người dùng chuyển đổi các token khác sang token ATF để giao dịch trên nền tảng. Tuy nhiên, hiện tại ArithFi chỉ hỗ trợ chuyển đổi USDT sang ATF và sẽ cung cấp hỗ trợ cho các loại token khác trong tương lai.
 
    ###### ![555.png](https://nftstorage.link/ipfs/bafkreih3eg7g7bqaf3b5oxg4wyckl6fif4gqcljwdbjg2nr7o25ae6ihhe)
 
 
 ##### Copy
 
-   This is a feature that allows users to copy the trades of others, with displayed ROI (Return on Investment) metrics for reference. This feature is similar to Copy Trade functionality on prominent CEX (Centralized Exchange) platforms such as Binance and Bybit.
-
+   Đây là một tính năng cho phép người dùng sao chép các giao dịch của người khác, với việc hiển thị các số liệu ROI (Return on Investment - Lợi nhuận trên Đầu tư) để tham khảo. Tính năng này tương tự như chức năng Copy Trade trên các nền tảng Giao dịch Trung tâm (Centralized Exchange - CEX) nổi tiếng như Binance và Bybit.
    ###### ![777.png](https://nftstorage.link/ipfs/bafkreia6wq3s4rzvo6phvj6a3tpbww7nvpcocf4xvop45jxeh4yviedhlu)
 
-When users choose someone to copy trades, they will set the amount of ATF tokens to allocate based on the risk ratio they are comfortable with to mitigate the risk of excessive losses when copying someone else's trades.
+Khi người dùng chọn sao chép giao dịch của ai đó, họ sẽ thiết lập số lượng token ATF để phân bổ dựa trên tỷ lệ rủi ro mà họ cảm thấy thoải mái, nhằm giảm thiểu rủi ro của việc chịu lỗ quá mức khi sao chép giao dịch của người khác.
 
    ###### ![777.png](https://nftstorage.link/ipfs/bafkreiflc6zragi7febkyljoumgd6ottqgpifb6g7733n4a5wxd4vuracm)
 
 
-##### Basic information about ATF token
+##### Thông tin cơ bản về token ATF
 
 | Token name     | ArithFi Token                                         |
 |----------------|-------------------------------------------------------|
@@ -78,52 +76,50 @@ When users choose someone to copy trades, they will set the amount of ATF tokens
 | Uses of tokens | BNB Chain: 0x00000000ba2ca30042001abc545871380f570b1f |
 | Total supply   | Utilities, Administration                             |
 
-##### ATF Token Allocation Rate
-Smart Contract Reserve: 50%
-Investors: 22%
-Team & Early Contributors: 15%
-DAO Reserve: 15%
+##### Tỷ lệ Phân bổ Token ATF
+Dự trữ Hợp đồng Thông minh: 50%
+Nhà đầu tư: 22%
+Đội ngũ & Người đóng góp sớm: 15%
+Dự trữ DAO: 15%
 
-##### Token ATF Allocation Schedule
-Currently, ArithFi has not disclosed information regarding the ATF token allocation schedule. 
+##### Lịch trình Phân bổ Token ATF
+Hiện tại, ArithFi chưa tiết lộ thông tin về lịch trình phân bổ token ATF.
 
-##### What is ATF Token Used For?
-ATF is the native token of ArithFi and is used for the following purposes:
+##### Token ATF Được Sử Dụng Cho Mục Đích Gì?
+ATF là token bản địa của ArithFi và được sử dụng cho các mục đích sau:
 
-○ As the primary means of transaction within the platform.
-○ As rewards for airdrops to users who participate in early experiences.
-○ Token holders of ATF can participate in project governance through a DAO 
+○ Là phương tiện giao dịch chính trong nền tảng.
+○ Là phần thưởng cho các đợt airdrop dành cho người dùng tham gia trải nghiệm sớm.
+○ Người sở hữu token ATF có thể tham gia quản trị dự án thông qua DAO
 
-##### Where can investors trade ATF tokens?
-Currently, investors can only trade ATF tokens on the PancakeSwap V2 exchange with the trading pair ATF/USDT.
+##### Nhà đầu tư có thể giao dịch token ATF ở đâu?
+Hiện tại, nhà đầu tư chỉ có thể giao dịch token ATF trên sàn PancakeSwap V2 với cặp giao dịch ATF/USDT.
 
-##### Where can investors store ATF tokens?
-ATF is an ERC-20 and BEP-20 standard token, so investors can store it in various wallets such as Metamask, Trust Wallet, Coin98 Wallet, and others that support these standards.
+##### Nhà đầu tư có thể lưu trữ token ATF ở đâu?
+ATF là token chuẩn ERC-20 và BEP-20, vì vậy nhà đầu tư có thể lưu trữ nó trong các ví như Metamask, Trust Wallet, Coin98 Wallet, và các ví khác hỗ trợ các chuẩn này.
 
-##### Development Roadmap
-ArithFi has a development roadmap consisting of three phases as follows:
+##### Lộ trình Phát triển
+ArithFi có lộ trình phát triển bao gồm ba giai đoạn như sau:
 
-○ Newton Phase: ArithFi provides efficient SCP model-based futures contracts for various crypto and forex assets, minimizing trading costs for users. Additionally, the project will integrate futures contracts for Real World Assets (RWA) into the platform.
-○ Euler Phase: ArithFi introduces its own Layer 2 solution to efficiently handle on-chain derivative transactions within the platform.
-○ Gauss Phase: ArithFi introduces M-Function, a tool created within smart contracts that allows individuals to build various financial products such as futures, options, and other derivative instruments. M-Function will be built on smart contracts from ArithFi's Layer 2.
+○ Giai đoạn Newton: ArithFi cung cấp hợp đồng tương lai dựa trên mô hình SCP hiệu quả cho các tài sản tiền điện tử và ngoại hối, giảm thiểu chi phí giao dịch cho người dùng. Ngoài ra, dự án sẽ tích hợp hợp đồng tương lai cho Real World Assets (RWA) vào nền tảng.
+○ Giai đoạn Euler: ArithFi giới thiệu giải pháp Layer 2 của riêng mình để xử lý hiệu quả các giao dịch phái sinh trên chuỗi trong nền tảng.
+○ Giai đoạn Gauss: ArithFi giới thiệu M-Function, một công cụ được tạo ra trong hợp đồng thông minh cho phép cá nhân xây dựng các sản phẩm tài chính khác nhau như hợp đồng tương lai, quyền chọn, và các công cụ phái sinh khác. M-Function sẽ được xây dựng trên hợp đồng thông minh từ Layer 2 của ArithFi.
+
 
 ###### ![777.png](https://nftstorage.link/ipfs/bafybeihakhhpgpclm7hxjrbsttyxnpht6mkjxsnkt7svcthcsqp3bbpwve)
 
-##### Development Team:
-Currently, ArithFi has not disclosed the identity of their development team to the community. 
+##### Đội Ngũ Phát Triển:
+Hiện tại, ArithFi chưa tiết lộ danh tính của đội ngũ phát triển với cộng đồng.
 
-##### Investors:
-Currently, ArithFi has not disclosed the investors involved in their fundraising rounds. 
+##### Nhà Đầu Tư:
+Hiện tại, ArithFi chưa tiết lộ những nhà đầu tư tham gia vào các vòng gọi vốn của họ.
 
-##### Partners:
-Currently, ArithFi has notable partners including BNB Chain, Followin, Coin98, among others.
+##### Đối Tác:
+Hiện tại, ArithFi có những đối tác đáng chú ý bao gồm BNB Chain, Followin, Coin98, cùng với những đối tác khác.
 ###### ![777.png](https://nftstorage.link/ipfs/bafkreihtewbl2jmpuhxgnn36hd54kbzbcptggqboklyyhqpwnvijvpd62y)
 
 
-##### Summary:
-ArithFi is a derivative trading platform that utilizes the SCP (Smart Contract as Counterparty) model, with smart contracts acting as counterparts in futures and options trading for all users. ArithFi eliminates Market Makers (MM) and Liquidity Providers (LP) to create a fair trading environment for all ATF token holders, where risk and profit are proportionate.
-Through this article, you should have gained some basic understanding of the ArithFi project to make your own investment decisions.
-
-
-
+##### Tóm Tắt:
+ArithFi là một nền tảng giao dịch phái sinh sử dụng mô hình SCP (Smart Contract as Counterparty - Hợp Đồng Thông Minh là Đối Tác), với các hợp đồng thông minh hoạt động như đối tác trong giao dịch hợp đồng tương lai và quyền chọn cho tất cả người dùng. ArithFi loại bỏ Nhà Tạo Lập Thị Trường (MM) và Nhà Cung Cấp Thanh Khoản (LP) để tạo ra một môi trường giao dịch công bằng cho tất cả chủ sở hữu token ATF, nơi rủi ro và lợi nhuận tỷ lệ thuận.
+Qua bài viết này, bạn nên đã có được một số hiểu biết cơ bản về dự án ArithFi để tự mình đưa ra quyết định đầu tư.
 
