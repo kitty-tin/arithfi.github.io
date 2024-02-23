@@ -5,7 +5,7 @@ title: What is ArithFi (ATF)? A derivative trading platform with an innovative S
 tags: ['Article']
 ---
 
-ArithFi is a derivative trading platform that utilizes the SCP (Smart Contract as Counterparty) model to act as a partner in futures and options trading for all users. ArithFi eliminates entities like MM (Market Makers) and LP (Liquidity Providers) to provide a unique derivative trading experience for users. Let's explore ArithFi further through the article below with Coin68!
+ArithFi is a derivative trading platform that utilizes the SCP (Smart Contract as Counterparty) model to act as a partner in futures and options trading for all users. ArithFi eliminates entities like MM (Market Makers) and LP (Liquidity Providers) to provide a unique derivative trading experience for users. 
 
 ##### What is ArithFi?
 ArithFi is a derivative trading platform that employs the SCP (Smart Contract as Counterparty) model, with smart contracts acting as counterparts in futures and options trading for all users. ArithFi also eliminates market makers (MM) and liquidity providers (LP) to mitigate risks and remove the order matching steps in traditional derivative trading.
@@ -85,7 +85,7 @@ Team & Early Contributors: 15%
 DAO Reserve: 15%
 
 ##### Token ATF Allocation Schedule
-Currently, ArithFi has not disclosed information regarding the ATF token allocation schedule. Coin68 will update as soon as there is the latest information from the project.
+Currently, ArithFi has not disclosed information regarding the ATF token allocation schedule. 
 
 ##### What is ATF Token Used For?
 ATF is the native token of ArithFi and is used for the following purposes:
@@ -110,10 +110,10 @@ ArithFi has a development roadmap consisting of three phases as follows:
 ###### ![777.png](https://nftstorage.link/ipfs/bafybeihakhhpgpclm7hxjrbsttyxnpht6mkjxsnkt7svcthcsqp3bbpwve)
 
 ##### Development Team:
-Currently, ArithFi has not disclosed the identity of their development team to the community. Coin68 will provide updates as soon as there is the latest information from the project.
+Currently, ArithFi has not disclosed the identity of their development team to the community.
 
 ##### Investors:
-Currently, ArithFi has not disclosed the investors involved in their fundraising rounds. Coin68 will provide updates as soon as there is the latest information from the project.
+Currently, ArithFi has not disclosed the investors involved in their fundraising rounds. 
 
 ##### Partners:
 Currently, ArithFi has notable partners including BNB Chain, Followin, Coin98, among others.
@@ -123,17 +123,5 @@ Currently, ArithFi has notable partners including BNB Chain, Followin, Coin98, a
 ##### Summary:
 ArithFi is a derivative trading platform that utilizes the SCP (Smart Contract as Counterparty) model, with smart contracts acting as counterparts in futures and options trading for all users. ArithFi eliminates Market Makers (MM) and Liquidity Providers (LP) to create a fair trading environment for all ATF token holders, where risk and profit are proportionate.
 Through this article, you should have gained some basic understanding of the ArithFi project to make your own investment decisions.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
