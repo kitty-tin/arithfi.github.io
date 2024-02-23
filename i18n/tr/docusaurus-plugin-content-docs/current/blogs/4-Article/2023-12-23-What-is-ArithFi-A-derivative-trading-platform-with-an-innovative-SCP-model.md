@@ -1,73 +1,71 @@
 ---
 slug: What-is-ArithFi-A-derivative-trading-platform-with-an-innovative-SCP-model
-title: What is ArithFi (ATF)? A derivative trading platform with an innovative SCP model.
+title: ArithFi (ATF), yenilikçi bir SCP modeli ile türev ticaret platformu olan nedir?
 
 tags: ['Article']
 ---
 
-ArithFi is a derivative trading platform that utilizes the SCP (Smart Contract as Counterparty) model to act as a partner in futures and options trading for all users. ArithFi eliminates entities like MM (Market Makers) and LP (Liquidity Providers) to provide a unique derivative trading experience for users. 
+ArithFi, tüm kullanıcılar için gelecek ve opsiyon ticaretinde ortak olarak hareket etmek için SCP (Akıllı Sözleşme olarak Karşı Taraf) modelini kullanan bir türev ticaret platformudur. ArithFi, MM (Piyasa Yapıcılar) ve LP (Likidite Sağlayıcılar) gibi varlıkları ortadan kaldırarak kullanıcılar için benzersiz bir türev ticaret deneyimi sunmaktadır.
 
-##### What is ArithFi?
-ArithFi is a derivative trading platform that employs the SCP (Smart Contract as Counterparty) model, with smart contracts acting as counterparts in futures and options trading for all users. ArithFi also eliminates market makers (MM) and liquidity providers (LP) to mitigate risks and remove the order matching steps in traditional derivative trading.
+##### ArithFi nedir?
+ArithFi, Smart Contract as Counterparty (SCP) modelı kullanarak türev işlem platformudur. Smart kontratlar, tüm kullanıcılar için futures ve opsiyon ticaretinde karşı kontratlar olarak hareket eder. ArithFi ayrıca riskleri azaltmak ve geleneksel türev ticaretindeki sipariş eşleme adımlarını kaldırmak için piyasa yapıcıları (MM) ve likidite sağlayıcılarını (LP) ortadan kaldırır.
 
    ###### ![What is ArithFi.png](https://nftstorage.link/ipfs/bafkreiaxjt4xqwfoxsvxwxhattypuuwb7qvkdr5hf7zyzgi4xjan76r7by)
 
-##### The Operational Mechanism of ArithFi
-ArithFi employs the SCP model, with smart contracts acting as counterparts for all participants in the derivative trading platform. This approach ensures decentralization and virtually unlimited liquidity in derivative trading through the issuance and burning of ATF tokens.
-Furthermore, ArithFi eliminates key entities such as MM and LP from the trading process, promoting fairness among all ATF token holders. As a result, they will collectively share risks and, in turn, profit in proportion to their participation in derivative trading on ArithFi.
+##### ArithFi'nin İşleyiş Mekanizması
+ArithFi, türev ticaret platformundaki tüm katılımcılar için karşı kontratlar olarak hareket eden smart kontratların kullanıldığı SCP modelini benimsemektedir. Bu yaklaşım, ATF tokenlerinin çıkarılması ve yakılması yoluyla türev ticarette merkezsizleşmeyi ve neredeyse sınırsız likiditeyi sağlar.
+Ayrıca, ArithFi, MM ve LP gibi önemli varlıkları ticaret sürecinden çıkararak, tüm ATF token sahipleri arasında adaleti teşvik eder. Sonuç olarak, ArithFi'de türev ticarete katılımlarına göre riskleri kolektif olarak paylaşacaklar ve buna bağlı olarak kar elde edeceklerdir.
 
-##### SCP Model for Futures Trading
-The SCP model operates in futures trading as illustrated by the following example:
+##### Futures Ticareti için SCP Modeli
+SCP modeli, futures ticaretinde aşağıdaki örnekle açıklanmaktadır:
 
-If a user opens a long position in BTC/USDT with a leverage of 10x, collateralizing it with 1000 ATF tokens, they are required to send 1000 ATF to the smart contract as an opening fee (considered as burning ATF tokens). From this point, two scenarios can unfold:
+Bir kullanıcı, BTC/USDT çiftinde 10x kaldıraçla uzun pozisyon açarsa ve bunu 1000 ATF token ile teminatlandırırsa, açılış ücreti olarak 1000 ATF'yi smart kontrata göndermesi gerekmektedir (ATF tokenlerinin yakıldığı kabul edilir). Bu noktadan itibaren, iki senaryo ortaya çıkabilir:
 
-○ If the BTC/USDT price increases by 1%, the user's profit is 10%. When the user closes the position, the smart contract automatically returns 1000 ATF plus 100 ATF in profit to the user.
+○ Eğer BTC/USDT fiyatı %1 artarsa, kullanıcının karı %10 olacaktır. Kullanıcı pozisyonu kapattığında, smart kontrat otomatik olarak kullanıcıya 1000 ATF'yi ve 100 ATF karını geri gönderir.
 
-○ If the BTC/USDT price decreases by 1%, the user incurs a loss of 10%. When the user closes the position, the smart contract automatically returns the remaining 900 ATF to the user.
+○ Eğer BTC/USDT fiyatı %1 düşerse, kullanıcı %10 zarar eder. Kullanıcı pozisyonu kapattığında, smart kontrat otomatik olarak kalan 900 ATF'yi kullanıcıya geri gönderir.
 
    ###### ![222.png](https://nftstorage.link/ipfs/bafybeid33si37trcnhafbpfhwy7xedmwzo7ljnrsrm27n4i6sbcrphjxam)
 
-##### SCP model for options trading
-The SCP model operates through an example of option trading as follows:
+##### Opsiyon Ticareti için SCP Modeli
+SCP modeli, opsiyon ticareti örneği üzerinden şu şekilde işler:
 
-If a user buys a call option for BTC/USDT at a cost of 2000 ATF, with a strike price of $30,000 and an expiration date of December 31, 2024, they need to send 2000 ATF to the smart contract as the option opening fee (considered as burning ATF tokens). Before the option expires, two scenarios can occur:
+Bir kullanıcı, BTC/USDT için 2000 ATF maliyeti olan, 30.000 dolarlık bir kullanım fiyatı ve 31 Aralık 2024 son kullanma tarihine sahip bir alım opsiyonu satın alırsa, opsiyon açılış ücreti olarak 2000 ATF'yi smart kontrata göndermesi gerekmektedir (ATF tokenlerinin yakıldığı kabul edilir). Opsiyonun sona ermesinden önce iki senaryo gerçekleşebilir:
 
-○ If the option's calculated value through the SCP model at that time is 3000 ATF, the user can sell the option to the smart contract. In this case, the smart contract will automatically return the initial 2000 ATF plus 1000 ATF in profit to the user.
+○ Eğer opsiyonun hesaplanan değeri SCP modeline göre o anda 3000 ATF ise, kullanıcı opsiyonu smart kontrata satabilir. Bu durumda, smart kontrat kullanıcıya başlangıçtaki 2000 ATF'yi ve 1000 ATF karını otomatik olarak geri gönderecektir.
 
-○ When the option expires, if the BTC/USDT price at that time is $35,000, the option's value for the user is 5000 ATF. The user needs to execute the option sale, and the smart contract will automatically transfer 2000 ATF plus 3000 ATF in profit to the user. However, if the BTC/USDT price is $25,000 when the option expires, the option's value for the user is 0 ATF, indicating they have incurred a complete loss.
+○ Opsiyonun sona erdiği zaman, eğer BTC/USDT fiyatı 35.000 dolar ise, opsiyonun değeri kullanıcı için 5000 ATF olacaktır. Kullanıcı opsiyon satışını gerçekleştirmelidir ve smart kontrat otomatik olarak 2000 ATF'yi ve 3000 ATF karını kullanıcıya transfer edecektir. Ancak, opsiyonun sona erdiği zaman BTC/USDT fiyatı 25.000 dolar ise, opsiyonun değeri kullanıcı için 0 ATF olacaktır, bu da tam bir zararın olduğunu gösterir.
 
    ![44.jpg](https://nftstorage.link/ipfs/bafybeicy5mdpgm2snkdvwtvfbyv2bbw5sr73ltwx62abbskz4eofhord2a)
 
 
 
-##### Features of ArithFi
-##### Features
-This feature allows users to trade futures contracts for various crypto and forex assets, with a maximum leverage of up to 50x. There are three types of trading orders available for users to choose from, including Limit, Market, and Stop-limit.
-
+##### ArithFi'nin Özellikleri
+##### Özellikler
+Bu özellik, kullanıcıların çeşitli kripto ve forex varlıkları için futures sözleşmeleri ticareti yapmalarına olanak tanır ve kullanıcıların en fazla 50x kaldıraç kullanmalarına izin verir. Kullanıcıların seçebilecekleri Limit, Market ve Stop-limit olmak üzere üç tür ticaret emri bulunmaktadır.
    ###### ![333.png](https://nftstorage.link/ipfs/bafkreic6xe2v7vgqup5emevkmuizpetmzxrdxfn5nskzy4dmvrnwfj6dvm)
 
-Note: Users can only trade with ATF tokens, so they will need to use the next feature, Swap, in order to participate in trading.
-
+Not: Kullanıcılar yalnızca ATF tokenleri ile ticaret yapabilirler, bu nedenle ticarete katılmak için Swap özelliğini kullanmaları gerekecektir.
 
 ##### Swap
 
-This is a feature that allows users to swap other tokens for ATF tokens in order to trade on the platform. However, ArithFi currently only supports swapping USDT for ATF and will provide support for other token types in the future.
+Bu özellik, kullanıcıların platformda ticaret yapabilmek için diğer tokenleri ATF tokenleriyle değiştirmelerine olanak tanır. Bununla birlikte, ArithFi şu anda yalnızca USDT'yi ATF için değiştirmeyi desteklemekte olup gelecekte diğer token türlerine de destek sağlayacaktır.
 
    ###### ![555.png](https://nftstorage.link/ipfs/bafkreih3eg7g7bqaf3b5oxg4wyckl6fif4gqcljwdbjg2nr7o25ae6ihhe)
 
 
 ##### Copy
 
-   This is a feature that allows users to copy the trades of others, with displayed ROI (Return on Investment) metrics for reference. This feature is similar to Copy Trade functionality on prominent CEX (Centralized Exchange) platforms such as Binance and Bybit.
+Bu özellik, kullanıcıların diğerlerinin işlemlerini kopyalamasına olanak tanır ve referans için ROI (Yatırım Getirisi) metriklerini gösterir. Bu özellik, Binance ve Bybit gibi önde gelen Merkezi Borsa (CEX) platformlarındaki Kopya Ticaret işlevine benzerdir.
 
    ###### ![777.png](https://nftstorage.link/ipfs/bafkreia6wq3s4rzvo6phvj6a3tpbww7nvpcocf4xvop45jxeh4yviedhlu)
 
-When users choose someone to copy trades, they will set the amount of ATF tokens to allocate based on the risk ratio they are comfortable with to mitigate the risk of excessive losses when copying someone else's trades.
+Kullanıcılar başka birinin işlemlerini kopyalamayı seçtiklerinde, başka birinin işlemlerini kopyalarken aşırı kayıpların riskini azaltmak için rahat oldukları risk oranına dayalı olarak tahsis edilecek ATF token miktarını belirleyeceklerdir.
 
    ###### ![777.png](https://nftstorage.link/ipfs/bafkreiflc6zragi7febkyljoumgd6ottqgpifb6g7733n4a5wxd4vuracm)
 
 
-##### Basic information about ATF token
+##### ATF tokeni hakkında temel bilgiler
 
 | Token name     | ArithFi Token                                         |
 |----------------|-------------------------------------------------------|
@@ -78,56 +76,50 @@ When users choose someone to copy trades, they will set the amount of ATF tokens
 | Uses of tokens | BNB Chain: 0x00000000ba2ca30042001abc545871380f570b1f |
 | Total supply   | Utilities, Administration                             |
 
-##### ATF Token Allocation Rate
-Smart Contract Reserve: 50%
-Investors: 22%
-Team & Early Contributors: 15%
-DAO Reserve: 15%
+##### ATF Token Tahsis Oranı
+Smart Kontrat Rezervi: 50%
+Yatırımcılar: 20%
+Ekip ve Erken Katkıda Bulunanlar: 15%
+DAO Rezervi: 15%
 
-##### Token ATF Allocation Schedule
-Currently, ArithFi has not disclosed information regarding the ATF token allocation schedule. Coin68 will update as soon as there is the latest information from the project.
+##### ATF Token Tahsis Programı
+Şu anda, ArithFi ATF token tahsis programı hakkında bilgi açıklamamıştır. Coin68, projeden en son bilgiler geldiğinde güncelleme yapacaktır.
 
-##### What is ATF Token Used For?
-ATF is the native token of ArithFi and is used for the following purposes:
+##### ATF Tokeni Ne İçin Kullanılıyor?
+ATF, ArithFi'nin yerel tokenıdır ve aşağıdaki amaçlar için kullanılır:
 
-○ As the primary means of transaction within the platform.
-○ As rewards for airdrops to users who participate in early experiences.
-○ Token holders of ATF can participate in project governance through a DAO 
+○ Platform içindeki başlıca işlem aracı olarak.
+○ Erken deneyimlere katılan kullanıcılara airdrop ödülleri olarak.
+○ ATF token sahipleri, bir DAO aracılığıyla proje yönetimine katılabilirler.
 
-##### Where can investors trade ATF tokens?
-Currently, investors can only trade ATF tokens on the PancakeSwap V2 exchange with the trading pair ATF/USDT.
+##### Yatırımcılar ATF tokenleri ile nerede ticaret yapabilirler?
+Şu anda yatırımcılar, sadece PancakeSwap V2 borsasında ATF/USDT işlem çifti ile ATF tokenlerini ticaret yapabilirler.
 
-##### Where can investors store ATF tokens?
-ATF is an ERC-20 and BEP-20 standard token, so investors can store it in various wallets such as Metamask, Trust Wallet, Coin98 Wallet, and others that support these standards.
+##### Yatırımcılar ATF tokenlerini nerede saklayabilirler?
+ATF, ERC-20 ve BEP-20 standart token olduğundan, yatırımcılar Metamask, Trust Wallet, Coin98 Wallet ve bu standartları destekleyen diğer cüzdanlarda saklayabilirler.
 
-##### Development Roadmap
-ArithFi has a development roadmap consisting of three phases as follows:
+##### Geliştirme Yol Haritası
+ArithFi'nin üç aşamalı bir geliştirme yol haritası bulunmaktadır:
 
-○ Newton Phase: ArithFi provides efficient SCP model-based futures contracts for various crypto and forex assets, minimizing trading costs for users. Additionally, the project will integrate futures contracts for Real World Assets (RWA) into the platform.
-○ Euler Phase: ArithFi introduces its own Layer 2 solution to efficiently handle on-chain derivative transactions within the platform.
-○ Gauss Phase: ArithFi introduces M-Function, a tool created within smart contracts that allows individuals to build various financial products such as futures, options, and other derivative instruments. M-Function will be built on smart contracts from ArithFi's Layer 2.
+○ Newton Aşaması: ArithFi, çeşitli kripto ve forex varlıkları için verimli SCP model tabanlı futures sözleşmeleri sunar ve kullanıcıların işlem maliyetlerini en aza indirir. Ayrıca, proje Real World Assets (RWA) için futures sözleşmelerini platforma entegre edecektir.
+○ Euler Aşaması: ArithFi, platform içinde on-chain türev işlemleri verimli bir şekilde yönetmek için kendi Layer 2 çözümünü tanıtır.
+○ Gauss Aşaması: ArithFi, M-Function'ı tanıtır; bu, futures, opsiyonlar ve diğer türev enstrümanlar gibi çeşitli finansal ürünler oluşturmak için smart kontratlarda oluşturulan bir araçtır. M-Function, ArithFi'nin Layer 2'sindeki smart kontratlara inşa edilecektir.
 
 ###### ![777.png](https://nftstorage.link/ipfs/bafybeihakhhpgpclm7hxjrbsttyxnpht6mkjxsnkt7svcthcsqp3bbpwve)
 
-##### Development Team:
-Currently, ArithFi has not disclosed the identity of their development team to the community. 
+##### Geliştirme Ekibi:
+Şu anda, ArithFi geliştirme ekibinin kimliğini topluluğa açıklamamıştır.
 
-##### Investors:
-Currently, ArithFi has not disclosed the investors involved in their fundraising rounds. 
+##### Yatırımcılar:
+Şu anda, ArithFi yatırım turuna katılan yatırımcıların kimliğini açıklamamıştır.
 
-##### Partners:
-Currently, ArithFi has notable partners including BNB Chain, Followin, Coin98, among others.
+##### Ortaklar:
+Şu anda, ArithFi'nin dikkate değer ortakları arasında BNB Chain, Followin, Coin98 gibi isimler bulunmaktadır.
 ###### ![777.png](https://nftstorage.link/ipfs/bafkreihtewbl2jmpuhxgnn36hd54kbzbcptggqboklyyhqpwnvijvpd62y)
 
 
-##### Summary:
-ArithFi is a derivative trading platform that utilizes the SCP (Smart Contract as Counterparty) model, with smart contracts acting as counterparts in futures and options trading for all users. ArithFi eliminates Market Makers (MM) and Liquidity Providers (LP) to create a fair trading environment for all ATF token holders, where risk and profit are proportionate.
-Through this article, you should have gained some basic understanding of the ArithFi project to make your own investment decisions.
-
-
-
-
-
-
+##### Özet:
+ArithFi, tüm kullanıcılar için futures ve opsiyon ticaretinde smart kontratların karşı kontratlar olarak hareket ettiği SCP (Smart Contract as Counterparty) modelini kullanan bir türev ticaret platformudur. ArithFi, tüm ATF token sahipleri için adil bir ticaret ortamı oluşturmak amacıyla Piyasa Yapıcıları (MM) ve Likidite Sağlayıcıları (LP) yi ortadan kaldırır ve risk ile karın orantılı olduğu bir sistem sunar.
+Bu makale aracılığıyla, ArithFi projesi hakkında temel bir anlayış kazanmış olmalısınız ve kendi yatırım kararlarınızı vermek için bilgi sahibi olmuş olmalısınız.
 
 
