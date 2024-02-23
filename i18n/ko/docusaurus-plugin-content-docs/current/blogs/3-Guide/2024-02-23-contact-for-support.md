@@ -1,6 +1,6 @@
 ---
 slug: contact-for-support
-title: Contact For Support
+title: 지원을 위한 연락처
 
 tags: ['guild']
 ---
