@@ -69,18 +69,11 @@ When users choose someone to copy trades, they will set the amount of ATF tokens
 
 ##### Basic information about ATF token
 
-| Token name     | ArithFi Token                                         |
-|----------------|-------------------------------------------------------|
-| Ticker         | ATF                                                   |
-| Blockchain     | Ethereum, BNB Chain                                   |
-| Token type     | ERC-20, BEP-20                                        |
-| Contract       | Ethereum: 0x00000000ba2ca30042001abc545871380f570b1f  |
-| Uses of tokens | BNB Chain: 0x00000000ba2ca30042001abc545871380f570b1f |
-| Total supply   | Utilities, Administration                             |
+ ###### ![777.png](https://nftstorage.link/ipfs/bafkreigvzdnzv7r54osabbfeo4sk3qi5zvwlac73yivy42v5bmhtqbhnni)
 
 ##### ATF Token Allocation Rate
 Smart Contract Reserve: 50%
-Investors: 22%
+Investors: 20%
 Team & Early Contributors: 15%
 DAO Reserve: 15%
 
