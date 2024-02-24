@@ -5,7 +5,7 @@ title: Arithfi 사용자 가이드
 tags: ['guild']
 ---
 
-# ArithFi 앱에서 첫 거래하기
+# ArithFi 사용자 가이드
 
 ArithFi에 오신 것을 환영합니다. 0 거래 수수료와 0 슬리피지를 달성하는 첫 번째 탈중앙화 파생 상품 프로토콜입니다.
 
