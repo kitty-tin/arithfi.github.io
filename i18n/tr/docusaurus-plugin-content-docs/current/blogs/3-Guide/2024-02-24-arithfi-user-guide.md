@@ -5,7 +5,7 @@ title: Arithfi Kullanım Kılavuzu
 tags: ['guild']
 ---
 
-# ArithFi Uygulamasında İlk İşleminizi Yapın
+# ArithFi Kullanıcı Kılavuzu
 
 ArithFi'ye hoş geldiniz, 0 işlem ücreti ve 0 kayma ile ilk merkezi olmayan türev protokolü.
 
