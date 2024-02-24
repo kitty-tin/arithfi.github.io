@@ -5,7 +5,7 @@ title: Hướng dẫn sử dụng Arithfi
 tags: ['guild']
 ---
 
-# Thực hiện Giao dịch Đầu tiên trên Ứng dụng ArithFi
+# Hướng dẫn sử dụng ArithFi
 
 Chào mừng bạn đến với ArithFi, giao thức phái sinh phi tập trung đầu tiên đạt được mức phí giao dịch 0 và không trượt giá.
 
