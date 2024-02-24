@@ -5,7 +5,7 @@ title: Arithfi User Guide
 tags: ['guild']
 ---
 
-# Make Your First Trade on the ArithFi App 
+# Arithfi User Guide
 
 Welcome to ArithFi, the first decentralized derivatives protocol that achieves 0 trading fees and 0 slippage.
 
