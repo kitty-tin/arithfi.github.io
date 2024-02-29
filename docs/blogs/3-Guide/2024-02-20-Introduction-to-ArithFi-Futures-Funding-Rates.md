@@ -23,10 +23,10 @@ a.For each asset pair, whenever there is a change in positions: opening, closing
 Where:
 - The superscript L/S denotes long/short.
 - The subscript i represents the moment in time i.
-- R represents the cumulative funding rate.
-- M represents the position (the sum of the initial margin of the open orders multiplied by the leverage).
+- R represents cumulative funding rate.
+- V represents the total position value for the asset pair for long/short positions
 - r0 represents the base funding rate, a constant (0.0003 for ETH & BTC, 0.0005 for others).
-- c represents the maximum funding rate, a constant (0.002 for ETH & BTC, 0.005 for others).
+- c represents the maximum funding rate, a constant (0.001 for ETH & BTC, 0.002 for others).
 - Δt represents the time interval from moment i to i+1 (in seconds).
 
 b.Assuming a user opens a position at moment i and closes it at moment j, the funding rate is calculated as follows:
@@ -47,6 +47,6 @@ Assuming a user opens a position at time i, and it is now time j, the funding am
 Where:
 - The superscript L/S denotes long/short positions.
 - The subscript (i,j) indicates the position is opened at time i and currently it's time j.
--   represents the funding rate amount that should be collected or compensated for the target order opened at time i and at time j.
--  represents the position value of the order at time j.
+- uT_i,jrepresents the funding rate amount that should be collected or compensated for the target order opened at time i and at time j.
+-  F_i,j v_t represents the position value of the order at time j.
 
