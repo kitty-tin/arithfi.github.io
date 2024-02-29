@@ -17,7 +17,7 @@ The funding rate algorithm is as follows:
 
 a.For each asset pair, whenever there is a change in positions: opening, closing (including forced liquidation), the dynamic funding rate is accumulated over time based on the ratio of long to short positions, with the formula as follows:
 
-![file](https://github.com/ArithFi/arithfi.github.io/assets/111032731/db320da7-dc2a-4765-a818-a995ff2b67b1)
+![file](https://nftstorage.link/ipfs/bafkreidnubgm2hzwgvx3gayquwmqdbtzhvfjizs6gfffq7qi2qaidbaj6y)
 
 
 Where:
@@ -31,16 +31,22 @@ Where:
 
 b.Assuming a user opens a position at moment i and closes it at moment j, the funding rate is calculated as follows:
 
-![file](https://github.com/ArithFi/arithfi.github.io/assets/111032731/71ccff9a-c348-4ee6-bd80-281bbc8abfc3)
+![file](https://nftstorage.link/ipfs/bafkreid4im5wb4humheeayyhgmv63fy3aqowcp3sy3jirorxzoierssinm)
 
 Where:
-- μT represents the rate of the funding rate that should be charged to the target position
+- The superscript L/S denotes long/short positions.
+- The subscript (i,j) indicates the position is opened at time i and currently it's time j.
+- Represents the funding rate that should be collected or compensated for the target order opened at time i and at time j.
 
-c.The funding amount for a user is calculated using the following formula:
+c. If the user has not yet closed the position, the funding rate amount will be reflected in real-time in the unrealized profit and loss of that position; if the user has closed the position, the funding rate amount is included in the user's realized profit and loss.
 
-![file](https://github.com/ArithFi/arithfi.github.io/assets/111032731/53390b32-97e4-4eee-86be-a16d25b70f1c)
+Assuming a user opens a position at time i, and it is now time j, the funding amount at time j is calculated using the following formula:
+
+![file](https://nftstorage.link/ipfs/bafkreigaqkgiignsqjvueubc6oapceoa2pfenyssftddvrm2k6qoiulxxy)
 
 Where:
-- F represents the Funding Amount.
-- PV represents the Position Value.
+- The superscript L/S denotes long/short positions.
+- The subscript (i,j) indicates the position is opened at time i and currently it's time j.
+-   represents the funding rate amount that should be collected or compensated for the target order opened at time i and at time j.
+-  represents the position value of the order at time j.
 
