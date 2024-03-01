@@ -44,7 +44,7 @@ The system's maintenance margin level (liquidation threshold) is defined as:
 
 Where:
 - a is the minimum residual balance parameter in the system, currently set to 15.
-- m is the maintenance margin ratio, currently set at 0.5%.
+- m is the maintenance margin ratio, currently set at 0.5% for crypto, 0.05% for forex.
 
 Therefore, the liquidation price formula at time t is as follows:
 
