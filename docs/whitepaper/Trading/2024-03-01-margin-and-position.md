@@ -5,7 +5,7 @@ title: Margin and position
 tags: ['Article']
 ---
 
-# Margin-M
+## Margin-M
 
 When opening a position, participants need to choose the direction of the position: long or short. They must decide on the leverage ratio (L) at the time of opening, which also determines the margin ratio. Finally, they need to decide on the amount of margin (M) they wish to post.
 
@@ -19,7 +19,7 @@ Ma represents the additional margin added.
 
 Adding additional margin does not change the direction of the position (long or short), the opening price, or the leverage ratio. However, it does change the margin ratio of the position and the liquidation price.
 
-# PositionValue - v
+## PositionValue - v
 
 The calculation of position size (Q) is as follows:
 
