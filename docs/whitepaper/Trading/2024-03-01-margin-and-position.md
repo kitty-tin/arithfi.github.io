@@ -1,6 +1,6 @@
 ---
 slug: margin-and-position
-title: Margin and position 
+title: Margin and Position 
 
 tags: ['Article']
 ---
