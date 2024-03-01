@@ -1,6 +1,6 @@
 ---
-slug: Introduction-to-ArithFi-Futures-Funding-Rates
-title: Introduction to ArithFi Futures Funding Rates
+slug: Funding-Rates
+title: Funding Rates
 
 tags: ['guild']
 ---
