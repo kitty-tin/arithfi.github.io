@@ -5,8 +5,8 @@ title: PNL and Liquidation
 tags: ['guild']
 ---
 
-# Profit and Loss (PNL)
-## Unrealized PNL (Unpnl)
+## Profit and Loss (PNL)
+### Unrealized PNL (Unpnl)
 After a participant opens a position in crypto futures at time i, the PNL for that position at any subsequent time t (t ∈ [0, T)) before closing is referred to as Unrealized PNL (Unpnl). The formula for Unpnl at time t is as follows:
 
 ###### ![](https://nftstorage.link/ipfs/bafkreih3tpduqfvmq25eoojzhcg4475vicq5pirj33k2g7h2xi7iovba2e)
@@ -18,7 +18,7 @@ Where:
 - Q represents the position size.
 - F_i,t represents the funding rate amount to be collected or compensated at time t for the position opened at time i.
 
-## Realized PNL (pnl)
+### Realized PNL (pnl)
 After a participant opens a position in crypto futures at time i and chooses to close it at time T, the corresponding pnl is calculated as follows:
 
 ###### ![](https://nftstorage.link/ipfs/bafkreidk7und7fxhemlo3gptnyg2xc2vgynzcbvixove25m2ya7xwltsmm)
@@ -29,7 +29,7 @@ Where:
 - Q represents the position size.
 - F_i,T represents the funding rate amount to be collected or compensated at time T for the position opened at time i.
 
-# Liquidation Price (Liq)
+## Liquidation Price (Liq)
 After opening a position in cryptocurrency futures, the participant can choose to close their position at any subsequent time t (t ∈ [0, T)). The net asset value of the position at time t (the amount received after closing the position at time t) is calculated as follows:
 
 ###### ![](https://nftstorage.link/ipfs/bafkreigmnsm3zjpxksuguw2jxknziscbvn5f3r3kzr6yplpa2f4peohyeu)
