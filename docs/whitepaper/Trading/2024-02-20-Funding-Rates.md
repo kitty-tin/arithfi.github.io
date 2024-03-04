@@ -25,8 +25,8 @@ Where:
 - The subscript i represents the moment in time i.
 - R represents cumulative funding rate.
 - V represents the total position value for the asset pair for long/short positions
-- r0 represents the base funding rate, a constant (0.0003 for ETH & BTC, 0.0005 for others).
-- c represents the maximum funding rate, a constant (0.001 for ETH & BTC, 0.002 for others).
+- r0 represents the base funding rate, a constant (0.0004 for ETH & BTC, 0.0008 for others).
+- c represents the maximum funding rate, a constant (0.002 for ETH & BTC, 0.004 for others).
 - Δt represents the time interval from moment i to i+1 (in seconds).
 
 b.Assuming a user opens a position at moment i and closes it at moment j, the funding rate is calculated as follows:
