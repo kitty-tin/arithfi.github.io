@@ -40,7 +40,7 @@ Where:
 - Unpnl_t denotes the unrealized PNL at time t.
 
 The system's maintenance margin level (liquidation threshold) is defined as:
-###### ![](https://nftstorage.link/ipfs/bafkreiaxl5ahnq32gw2mlyppid7pmm34zqwasruhdda3v5xvxvysnarp4u)
+###### ![](https://nftstorage.link/ipfs/bafkreidzzm5wk4j5yu3niffi57b4r22ztejxgghpa7o4n27zaane22gs6m)
 
 Where:
 - a is the minimum residual balance parameter in the system, currently set to 15.
@@ -48,7 +48,7 @@ Where:
 
 Therefore, the liquidation price formula at time t is as follows:
 
-###### ![](https://nftstorage.link/ipfs/bafkreih5iklxl4khxxjo6efo2h7wuxtr7qnvjhnrwo2tb7jil5uw7sh4cm)
+###### ![](https://nftstorage.link/ipfs/bafkreihhilsa4uxkfku54fya64opjkmyvyf26jicvphnw7jmubefyswoge)
 
 Where:
 - The superscript L/S denotes long/short positions.
