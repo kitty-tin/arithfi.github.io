@@ -1,6 +1,6 @@
 ---
 slug: contact-for-support
-title: contact for support
+title: Contact for Support
 
 tags: ['guild']
 ---
