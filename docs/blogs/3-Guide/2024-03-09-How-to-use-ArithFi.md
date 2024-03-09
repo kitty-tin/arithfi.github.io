@@ -17,8 +17,6 @@ Welcome to ArithFi, the first decentralized derivatives protocol that achieves 0
 
 - Copy Trading
 
-<br>
-
 ## Deposit on ArithFi account
 
 (1) Make sure some BNB and USDT are in your wallet. Click on "Account" and "Deposit" to deposit your ArithFi account.
@@ -66,8 +64,6 @@ You can “Add” the margin, “Edit” the stop-limit price or “Close” you
 ![08](https://bafybeidzng2n26rwdgfkawcsoduekz7qlulxjlk3u6l6q6mzhedg5j5tze.ipfs.nftstorage.link/08.png)
 
 **Note**: [ArithFi Futures Funding Rates](https://docs.arithfi.com/docs/blogs/Guide/Introduction-to-ArithFi-Futures-Funding-Rates) 
-
-<br>
 
 ## Copy Trading
 
