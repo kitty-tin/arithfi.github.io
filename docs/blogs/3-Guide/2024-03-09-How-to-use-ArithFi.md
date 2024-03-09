@@ -1,5 +1,5 @@
 ---
-slug: how-to-user-arithfi
+slug: how-to-use-arithfi
 title: How to Use ArithFi
 
 tags: ['guild']
@@ -9,7 +9,7 @@ tags: ['guild']
 
 Welcome to ArithFi, the first decentralized derivatives protocol that achieves 0 trading fees and 0 slippage.
 
-**Through this guide, you can learn how to use the following features of ArithFi.** <br>
+**Through this guide, you can learn how to use the following features of ArithFi.**
 
 - Deposit on ArithFi account
 
