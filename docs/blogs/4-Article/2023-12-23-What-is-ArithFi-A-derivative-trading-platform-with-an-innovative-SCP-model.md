@@ -67,15 +67,15 @@ When users choose someone to copy trades, they will set the amount of ATF tokens
 ## ATF token​
 ### Basic information about ATF token
 
-| Attribute       | Details                                        |
-|-----------------|------------------------------------------------|
-| Token name      | ArithFi Token                                  |
-| Ticker          | ATF                                            |
-| Blockchain      | Ethereum, BNB Chain                            |
-| Token type      | ERC-20, BEP-20                                 |
-| Contract        | Ethereum: 0x00000000ba2ca30042001abc545871380f570b1f <br> BNB Chain: 0x00000000ba2ca30042001abc545871380f570b1f |
-| Uses of tokens  | Utilities, Administration                      |
-| Total supply    | 1 Billion ATF                                  |
+| Attribute       | Details                                                                                                     |
+|-----------------|-------------------------------------------------------------------------------------------------------------|
+| Token name      | ArithFi Token                                                                                               |
+| Ticker          | ATF                                                                                                         |
+| Blockchain      | Ethereum, BNB Chain                                                                                         |
+| Token type      | ERC-20, BEP-20                                                                                              |
+| Contract        | Ethereum: 0x00000000ba2ca30042001abc545871380f570b1f, BNB Chain: 0x00000000ba2ca30042001abc545871380f570b1f |
+| Uses of tokens  | Utilities, Administration                                                                                   |
+| Total supply    | 1 Billion ATF                                                                                               |
 
 
 ### ATF Token Allocation​
